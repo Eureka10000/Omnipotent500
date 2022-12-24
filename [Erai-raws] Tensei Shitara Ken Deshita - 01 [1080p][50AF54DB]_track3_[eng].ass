@@ -16,14 +16,14 @@ Video File: D:/Torrents/[Erai-raws] Tensei Shitara Ken Deshita - 01 [1080p][50AF
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 55
-Active Line: 72
-Video Position: 7077
+Scroll Position: 73
+Active Line: 90
+Video Position: 8856
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Subtitle,@Iwata Mincho Old Pro-Fate H,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,90,90,0,0,1,1.5,3,2,30,30,30,1
+Style: Subtitle,Franklin Gothic Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,90,90,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption,Staccato222 BT,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption-2,Times New Roman,72,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption-3,Times New Roman,50,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
@@ -34,7 +34,7 @@ Style: Caption-7,Times New Roman,72,&H00759BAC,&H00759BAC,&H00000000,&H00000000,
 Style: Caption-8,Times New Roman,38,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption-9,Times New Roman,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption-10,Staccato222 BT,50,&H00B6AFAC,&H00B6AFAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Thought Subtitles,@Iwata Mincho Old Pro-Fate H,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,90,90,0,0,1,2,3,2,30,30,30,1
+Style: Thought Subtitles,Franklin Gothic Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,90,90,0,0,1,2,3,2,30,30,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -106,28 +106,28 @@ Dialogue: 0,0:04:14.42,0:04:17.88,Thought Subtitles,,0,0,0,,It's like the feelin
 Dialogue: 0,0:04:18.78,0:04:20.83,Thought Subtitles,,0,0,0,,O! I've got new skills!
 Dialogue: 0,0:04:21.33,0:04:24.63,Thought Subtitles,,0,0,0,,So breaking mana crystals {\b1}does{\b0} let me absorb their skills!
 Dialogue: 0,0:04:28.13,0:04:29.42,Thought Subtitles,,0,0,0,,Thanks for the help.
-Dialogue: 0,0:04:31.88,0:04:36.25,Subtitle,,0,0,0,,Being a sword without someone\Nto wield me is kinda sad.
-Dialogue: 0,0:04:37.21,0:04:41.63,Subtitle,,0,0,0,,But now I've got a goal: absorb more skills!
-Dialogue: 0,0:04:42.38,0:04:49.50,Subtitle,,0,0,0,,Since I'm a sword now, I've gotta get stronger\Nfor the person who's gonna wield me someday!
+Dialogue: 0,0:04:31.88,0:04:36.25,Thought Subtitles,,0,0,0,,But man, being a sword without\N someone to wield me is kinda sad.
+Dialogue: 0,0:04:37.21,0:04:41.63,Thought Subtitles,,0,0,0,,But now I've got a goal: absorb more skills!
+Dialogue: 0,0:04:42.38,0:04:49.50,Thought Subtitles,,0,0,0,,Since I'm a sword now, I've gotta get stronger\Nfor the person who's gonna wield me someday!
 Dialogue: 0,0:04:51.83,0:04:54.08,Subtitle,,0,0,0,,Pick up the pace, trash!
-Dialogue: 0,0:04:55.17,0:04:56.25,Subtitle,,0,0,0,,I want...
-Dialogue: 0,0:04:56.88,0:04:58.33,Subtitle,,0,0,0,,to be stronger.
+Dialogue: 0,0:04:55.17,0:04:56.25,Subtitle,,0,0,0,,I…
+Dialogue: 0,0:04:56.88,0:04:58.33,Subtitle,,0,0,0,,want to become stronger.
 Dialogue: 0,0:05:00.08,0:05:01.92,Subtitle,,0,0,0,,Hey, no slacking off!
-Dialogue: 0,0:05:03.83,0:05:05.17,Subtitle,,0,0,0,,Black Cat weakling.
+Dialogue: 0,0:05:03.83,0:05:05.17,Subtitle,,0,0,0,,You damn Black Cat.
 Dialogue: 0,0:05:06.46,0:05:08.13,Subtitle,,0,0,0,,If I had power…
 Dialogue: 0,0:05:11.38,0:05:13.13,Subtitle,,0,0,0,,If I just had the power…
 Dialogue: 0,0:05:15.71,0:05:19.13,Subtitle,,0,0,0,,I want to have power.
 Dialogue: 0,0:05:20.88,0:05:22.13,Subtitle,,0,0,0,,I need power…
-Dialogue: 0,0:05:27.46,0:05:33.79,Subtitle,,0,0,0,,Using Telekinesis depletes my mana.\NI can only use it for about 3 minutes.
-Dialogue: 0,0:05:35.25,0:05:36.88,Subtitle,,0,0,0,,Your crystals are mine!
-Dialogue: 0,0:05:38.83,0:05:39.79,Subtitle,,0,0,0,,Gross!
-Dialogue: 0,0:05:40.29,0:05:43.17,Subtitle,,0,0,0,,Whoa, it's absorbing my mana! That's not good!
-Dialogue: 0,0:05:43.71,0:05:46.88,Subtitle,,0,0,0,,I gotta have that skill, though!
-Dialogue: 0,0:05:50.08,0:05:52.92,Subtitle,,0,0,0,,Hell yeah, Drain Mana is mine!
-Dialogue: 0,0:05:53.29,0:05:55.42,Subtitle,,0,0,0,,I also got... Float?
-Dialogue: 0,0:05:57.25,0:06:02.42,Subtitle,,0,0,0,,Whoa! Combining Telekinesis and Float\Nlets me fly for 5 times longer!
-Dialogue: 0,0:06:02.58,0:06:06.00,Subtitle,,0,0,0,,And I can probably improve\Nthat more by absorbing more skills!
-Dialogue: 0,0:06:06.88,0:06:08.83,Subtitle,,0,0,0,,With Telekinesis and Float, I can use…
+Dialogue: 0,0:05:27.46,0:05:33.79,Thought Subtitles,,0,0,0,,Using Telekinesis depletes my mana.\NI can only use it for about 3 minutes.
+Dialogue: 0,0:05:35.25,0:05:36.88,Thought Subtitles,,0,0,0,,Your crystals are mine!
+Dialogue: 0,0:05:38.83,0:05:39.79,Thought Subtitles,,0,0,0,,Gross!
+Dialogue: 0,0:05:40.29,0:05:43.17,Thought Subtitles,,0,0,0,,Whoa, it's absorbing my mana! That's not good!
+Dialogue: 0,0:05:43.71,0:05:46.88,Thought Subtitles,,0,0,0,,I gotta have that skill, though!
+Dialogue: 0,0:05:50.08,0:05:52.92,Thought Subtitles,,0,0,0,,Hell yeah, Mana Drain is mine!
+Dialogue: 0,0:05:53.29,0:05:55.42,Thought Subtitles,,0,0,0,,I also got... Float?
+Dialogue: 0,0:05:57.25,0:06:02.42,Thought Subtitles,,0,0,0,,Whoa! Combining Telekinesis and Float\Nlets me fly for 5 times longer!
+Dialogue: 0,0:06:02.58,0:06:06.00,Thought Subtitles,,0,0,0,,And I can probably improve\Nthat more by absorbing more skills!
+Dialogue: 0,0:06:06.88,0:06:08.83,Thought Subtitles,,0,0,0,,With Telekinesis and Float, I can use…
 Dialogue: 0,0:06:09.33,0:06:10.88,Subtitle,,0,0,0,,Free Fall!
 Dialogue: 0,0:06:12.13,0:06:13.50,Subtitle,,0,0,0,,Crystals absorbed!
 Dialogue: 0,0:06:15.88,0:06:17.08,Subtitle,,0,0,0,,Thanks for the grub!
