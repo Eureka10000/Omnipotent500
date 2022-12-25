@@ -16,14 +16,14 @@ Video File: D:/Torrents/[Erai-raws] Tensei Shitara Ken Deshita - 01 [1080p][50AF
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 93
-Active Line: 108
-Video Position: 10497
+Scroll Position: 150
+Active Line: 160
+Video Position: 16440
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Subtitle,Franklin Gothic Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,90,90,0,0,1,1.5,3,2,30,30,30,1
+Style: Subtitle,Bahnschrift,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,90,90,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption,Staccato222 BT,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption-2,Times New Roman,72,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption-3,Times New Roman,50,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
@@ -34,7 +34,7 @@ Style: Caption-7,Times New Roman,72,&H00759BAC,&H00759BAC,&H00000000,&H00000000,
 Style: Caption-8,Times New Roman,38,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption-9,Times New Roman,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
 Style: Caption-10,Staccato222 BT,50,&H00B6AFAC,&H00B6AFAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Thought Subtitles,Franklin Gothic Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,90,90,0,0,1,2,3,2,30,30,30,1
+Style: Thought Subtitles,Bahnschrift,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,90,90,0,0,1,2,3,2,30,30,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -105,7 +105,7 @@ Dialogue: 0,0:04:12.92,0:04:14.42,Thought Subtitles,,0,0,0,,Hell yeah!
 Dialogue: 0,0:04:14.42,0:04:17.88,Thought Subtitles,,0,0,0,,It's like the feeling you get when you stuff your\N empty stomach with your favorite food!
 Dialogue: 0,0:04:18.78,0:04:20.83,Thought Subtitles,,0,0,0,,O! I've got new skills!
 Dialogue: 0,0:04:21.33,0:04:24.63,Thought Subtitles,,0,0,0,,So breaking mana crystals {\b1}does{\b0} let me absorb their skills!
-Dialogue: 0,0:04:28.13,0:04:29.42,Thought Subtitles,,0,0,0,,Thanks for the help.
+Dialogue: 0,0:04:28.13,0:04:29.42,Thought Subtitles,,0,0,0,,Thank you for your service, soldiers.
 Dialogue: 0,0:04:31.88,0:04:36.25,Thought Subtitles,,0,0,0,,But man, being a sword without\N someone to wield me is kinda sad.
 Dialogue: 0,0:04:37.21,0:04:41.63,Thought Subtitles,,0,0,0,,But now I've got a goal: absorb more skills!
 Dialogue: 0,0:04:42.38,0:04:49.50,Thought Subtitles,,0,0,0,,Since I'm a sword now, I've gotta get stronger\Nfor the person who's gonna wield me someday!
@@ -146,58 +146,58 @@ Dialogue: 0,0:06:58.00,0:07:00.96,Thought Subtitles,,0,0,0,,My wielder's gonna l
 Dialogue: 0,0:07:01.38,0:07:03.92,Thought Subtitles,,0,0,0,,But I don't have a wielder.
 Dialogue: 0,0:07:04.21,0:07:08.29,Thought Subtitles,,0,0,0,,I'm so lonely, announcer-san. Am I doing a good job?
 Dialogue: 0,0:07:08.29,0:07:12.75,Thought Subtitles,,0,0,0,,C'mon, compliment me from time to time.
-Dialogue: 0,0:07:17.79,0:07:20.38,Thought Subtitles,,0,0,0,,Well, well. Found me a Goblin nest!
-Dialogue: 0,0:07:22.29,0:07:25.42,Subtitle,,0,0,0,,Makin' Goblin mincemeat and grabbin' those crystals!
-Dialogue: 0,0:07:27.29,0:07:28.88,Subtitle,,0,0,0,,Thank you, gentlemen!
-Dialogue: 0,0:07:29.88,0:07:34.13,Subtitle,,0,0,0,,Yup, Gobbies are chock-full of yummy skills.
-Dialogue: 0,0:07:40.46,0:07:41.33,Subtitle,,0,0,0,,Bingo!
-Dialogue: 0,0:07:43.46,0:07:44.29,Subtitle,,0,0,0,,Here comes my…
-Dialogue: 0,0:07:44.58,0:07:47.25,Subtitle,,0,0,0,,Telekinetic Catapult attack!
-Dialogue: 0,0:07:51.96,0:07:53.88,Subtitle,,0,0,0,,Whoops, that was kinda overkill.
-Dialogue: 0,0:07:55.46,0:07:58.42,Subtitle,,0,0,0,,I know, you weren't expecting\Na sword to fly in here on its own.
-Dialogue: 0,0:07:59.21,0:08:05.38,Subtitle,,0,0,0,,Rest in Gob-pieces, crystal fleshbags!
-Dialogue: 0,0:08:09.29,0:08:11.88,Subtitle,,0,0,0,,Yes! I finally got Fire Magic!
-Dialogue: 0,0:08:14.21,0:08:15.96,Subtitle,,0,0,0,,Rest in pieces, Gobbies.
-Dialogue: 0,0:08:17.63,0:08:20.21,Subtitle,,0,0,0,,Hey, my Sword Mastery's up to three!
-Dialogue: 0,0:08:20.42,0:08:25.50,Subtitle,,0,0,0,,So when I absorb crystals for skills\NI already have, that levels them up.
-Dialogue: 0,0:08:25.88,0:08:30.71,Subtitle,,0,0,0,,Guess that means whoever wields me\Nwill instantly be a master swordsman!
-Dialogue: 0,0:08:31.04,0:08:32.83,Subtitle,,0,0,0,,That's gonna be awesome!
-Dialogue: 0,0:08:33.17,0:08:36.42,Subtitle,,0,0,0,,My wielder is gonna freak!
-Dialogue: 0,0:08:43.67,0:08:48.00,Subtitle,,0,0,0,,Shut your filthy mouth, and keep it shut!
-Dialogue: 0,0:08:49.88,0:08:51.42,Subtitle,,0,0,0,,What do you want, Black Cat?
-Dialogue: 0,0:08:51.88,0:08:53.17,Subtitle,,0,0,0,,Down!
-Dialogue: 0,0:08:57.13,0:08:59.54,Subtitle,,0,0,0,,Don't make me laugh, weakshit.
-Dialogue: 0,0:09:00.42,0:09:04.46,Subtitle,,0,0,0,,Black Cat, for that, you get no dinner tonight.
+Dialogue: 0,0:07:17.79,0:07:20.38,Thought Subtitles,,0,0,0,,I've successfully found me a nest of a bunch of Gobu-sans!
+Dialogue: 0,0:07:22.29,0:07:25.42,Thought Subtitles,,0,0,0,,Makin' Goblin mincemeat and grabbin' those crystals!
+Dialogue: 0,0:07:27.29,0:07:28.88,Thought Subtitles,,0,0,0,,Thank you, gentlemen!
+Dialogue: 0,0:07:29.88,0:07:34.13,Thought Subtitles,,0,0,0,,Yup, Gobbies are chock-full of yummy skills.
+Dialogue: 0,0:07:40.46,0:07:41.33,Thought Subtitles,,0,0,0,,Bingo!
+Dialogue: 0,0:07:43.46,0:07:44.29,Thought Subtitles,,0,0,0,,Here comes my…
+Dialogue: 0,0:07:44.58,0:07:47.25,Thought Subtitles,,0,0,0,,Telekinetic Catapult attack!
+Dialogue: 0,0:07:51.96,0:07:53.88,Thought Subtitles,,0,0,0,,Shit, that was kinda overkill.
+Dialogue: 0,0:07:55.46,0:07:58.42,Thought Subtitles,,0,0,0,,You definitely weren't expecting\Na sword to fly in here on its own.
+Dialogue: 0,0:07:59.21,0:08:05.38,Thought Subtitles,,0,0,0,,But the real goal is you! Absorb mana crystals, Gob-grinder!
+Dialogue: 0,0:08:09.29,0:08:11.88,Thought Subtitles,,0,0,0,,Yes! I finally got Fire Magic!
+Dialogue: 0,0:08:14.21,0:08:15.96,Thought Subtitles,,0,0,0,,Gobu-san, rest in pieces.
+Dialogue: 0,0:08:17.63,0:08:20.21,Thought Subtitles,,0,0,0,,Hey, my Sword Arts went up to three!
+Dialogue: 0,0:08:20.42,0:08:25.50,Thought Subtitles,,0,0,0,,So when I absorb crystals for skills\NI already have, that levels them up.
+Dialogue: 0,0:08:25.88,0:08:30.71,Thought Subtitles,,0,0,0,,Guess that means whoever wields me\Nwill instantly be a master swordsman!
+Dialogue: 0,0:08:31.04,0:08:32.83,Thought Subtitles,,0,0,0,,Ha～ can't wa～it!
+Dialogue: 0,0:08:33.17,0:08:36.42,Thought Subtitles,,0,0,0,,My wielder is gonna freak!
+Dialogue: 0,0:08:43.67,0:08:48.00,Subtitle,,0,0,0,,Your mouth stinks so stop talking, or I will keep it...
+Dialogue: 0,0:08:49.88,0:08:51.42,Subtitle,,0,0,0,,The hell you're doing, Black Cat?
+Dialogue: 0,0:08:51.88,0:08:53.17,Subtitle,,0,0,0,,Kneel!
+Dialogue: 0,0:08:57.13,0:08:59.54,Subtitle,,0,0,0,,You're a weakshit so don't make me laugh.
+Dialogue: 0,0:09:00.42,0:09:04.46,Subtitle,,0,0,0,,Black Cat, for that, you get no feed tonight.
 Dialogue: 0,0:09:09.21,0:09:12.25,Subtitle,,0,0,0,,Stop movin' slow! Load 'em up faster!
 Dialogue: 0,0:09:12.71,0:09:14.04,Subtitle,,0,0,0,,I'm trying.
-Dialogue: 0,0:09:14.04,0:09:17.00,Subtitle,,0,0,0,,Did I give you permission to speak?!\NAnd gods, you stink!
-Dialogue: 0,0:09:17.54,0:09:19.96,Subtitle,,0,0,0,,Godsdamned beasts who can't even Evolve.
-Dialogue: 0,0:09:21.50,0:09:23.08,Subtitle,,0,0,0,,What's that look for, huh?!
-Dialogue: 0,0:09:26.17,0:09:27.67,Subtitle,,0,0,0,,D-down!
-Dialogue: 0,0:09:30.21,0:09:33.79,Subtitle,,0,0,0,,You'll never be able to fight back.
-Dialogue: 0,0:09:34.00,0:09:36.13,Subtitle,,0,0,0,,So get used to it.
-Dialogue: 0,0:09:42.08,0:09:43.25,Subtitle,,0,0,0,,I'm going to get stronger.
-Dialogue: 0,0:09:44.13,0:09:46.25,Subtitle,,0,0,0,,I know I can Evolve.
-Dialogue: 0,0:09:51.13,0:09:54.04,Subtitle,,0,0,0,,Nothing like home, sweet pedastal…
-Dialogue: 0,0:09:55.46,0:09:58.63,Subtitle,,0,0,0,,So, the further I get from my pedastal,
-Dialogue: 0,0:09:58.63,0:10:01.46,Subtitle,,0,0,0,,the stronger the monsters I encounter.
-Dialogue: 0,0:10:02.25,0:10:03.04,Subtitle,,0,0,0,,No way…
-Dialogue: 0,0:10:03.25,0:10:05.04,Subtitle,,0,0,0,,That's a freakin' dragon!
-Dialogue: 0,0:10:06.00,0:10:08.96,Subtitle,,0,0,0,,And the stronger the monster,\Nthe more crystals they've got.
-Dialogue: 0,0:10:14.63,0:10:16.67,Subtitle,,0,0,0,,Skill: Regenerate!
-Dialogue: 0,0:10:18.29,0:10:24.54,Subtitle,,0,0,0,,After absorbing a bunch of skills, I was strong enough\Nto handle all the monsters in Area 4.
-Dialogue: 0,0:10:25.46,0:10:26.50,Subtitle,,0,0,0,,That meant…
-Dialogue: 0,0:10:27.50,0:10:30.46,Subtitle,,0,0,0,,I can handle it now… at least, I should be able to!
-Dialogue: 0,0:10:31.79,0:10:36.29,Subtitle,,0,0,0,,The southern boss of Area 5, the Gluttonous Slimelord!
-Dialogue: 0,0:10:43.04,0:10:44.08,Subtitle,,0,0,0,,Gotta watch out!
-Dialogue: 0,0:10:45.88,0:10:47.04,Subtitle,,0,0,0,,Aw, crap!
-Dialogue: 0,0:10:48.25,0:10:50.88,Subtitle,,0,0,0,,I gotta finish this battle fast, or else…
-Dialogue: 0,0:10:51.33,0:10:53.58,Subtitle,,0,0,0,,Skill: Identify Creature!
-Dialogue: 0,0:10:55.00,0:10:57.04,Subtitle,,0,0,0,,Okay, found the crystals!
-Dialogue: 0,0:11:00.29,0:11:01.63,Subtitle,,0,0,0,,Let's give my new attack a try.
-Dialogue: 0,0:11:01.92,0:11:06.00,Subtitle,,0,0,0,,Combining my Telekinetic Catapult\Nwith my Wind Shooter spell...
-Dialogue: 0,0:11:06.42,0:11:09.00,Subtitle,,0,0,0,,into the most powerful attack I've got right now:
-Dialogue: 0,0:11:09.63,0:11:11.29,Subtitle,,0,0,0,,Heavenly Slash!
+Dialogue: 0,0:09:14.04,0:09:17.00,Subtitle,,0,0,0,,Did I give you permission to speak?!\NYou fucking stink!
+Dialogue: 0,0:09:17.54,0:09:19.96,Subtitle,,0,0,0,,You're a trash species that can't even evolve.
+Dialogue: 0,0:09:21.50,0:09:23.08,Subtitle,,0,0,0,,What're you throwing that look for?!
+Dialogue: 0,0:09:26.17,0:09:27.67,Subtitle,,0,0,0,,Kn-Kneel!
+Dialogue: 0,0:09:30.21,0:09:33.79,Subtitle,,0,0,0,,You'll never be allowed to fight back.
+Dialogue: 0,0:09:34.00,0:09:36.13,Subtitle,,0,0,0,,That's what position you're in.
+Dialogue: 0,0:09:42.08,0:09:43.25,Subtitle,,0,0,0,,I'm going to become stronger.
+Dialogue: 0,0:09:44.13,0:09:46.25,Subtitle,,0,0,0,,I swear I will Evolve.
+Dialogue: 0,0:09:51.13,0:09:54.04,Thought Subtitles,,0,0,0,,Being in this pedestal really {\b1}is{\b0} too calm…
+Dialogue: 0,0:09:55.46,0:09:58.63,Thought Subtitles,,0,0,0,,Now then, for some reason, when I get out of my pedestal,
+Dialogue: 0,0:09:58.63,0:10:01.46,Thought Subtitles,,0,0,0,,Stronger monsters appear out of nowhere.
+Dialogue: 0,0:10:02.25,0:10:03.04,Thought Subtitles,,0,0,0,,No way…
+Dialogue: 0,0:10:03.25,0:10:05.04,Thought Subtitles,,0,0,0,,That's a freakin' dragon!
+Dialogue: 0,0:10:06.00,0:10:08.96,Thought Subtitles,,0,0,0,,And the strong monsters,\Nalso have plenty of mana crystals.
+Dialogue: 0,0:10:14.63,0:10:16.67,Thought Subtitles,,0,0,0,,Skill: Auto-repair!
+Dialogue: 0,0:10:18.29,0:10:24.54,Thought Subtitles,,0,0,0,,After absorbing a bunch of skills, I was strong enough\Nto handle all the monsters in Area 4.
+Dialogue: 0,0:10:25.46,0:10:26.50,Thought Subtitles,,0,0,0,,That meant…
+Dialogue: 0,0:10:27.50,0:10:30.46,Thought Subtitles,,0,0,0,,I can handle it now… at least, I should be able to!
+Dialogue: 0,0:10:31.79,0:10:36.29,Thought Subtitles,,0,0,0,,The southern boss of Area 5, the Gluttonous Slimelord!
+Dialogue: 0,0:10:43.04,0:10:44.08,Thought Subtitles,,0,0,0,,Ah, shit!
+Dialogue: 0,0:10:45.88,0:10:47.04,Thought Subtitles,,0,0,0,,This looks bad!
+Dialogue: 0,0:10:48.25,0:10:50.88,Thought Subtitles,,0,0,0,,I gotta finish this battle fast, or else…
+Dialogue: 0,0:10:51.33,0:10:53.58,Thought Subtitles,,0,0,0,,Skill: Monster Knowledge!
+Dialogue: 0,0:10:55.00,0:10:57.04,Thought Subtitles,,0,0,0,,Okay, found the crystals!
+Dialogue: 0,0:11:00.29,0:11:01.63,Thought Subtitles,,0,0,0,,Guess I'll give it a try.
+Dialogue: 0,0:11:01.92,0:11:06.00,Thought Subtitles,,0,0,0,,Combining Telekinetic Catapult\Nwith Wind Shooter spell...
+Dialogue: 0,0:11:06.42,0:11:09.00,Thought Subtitles,,0,0,0,,into the most powerful attack I've got right now:
+Dialogue: 0,0:11:09.63,0:11:11.29,Thought Subtitles,,0,0,0,,Heavenly Finisher!
 Dialogue: 0,0:11:25.67,0:11:28.33,Subtitle,,0,0,0,,If someone was wielding me, they might not've survived.
 Dialogue: 0,0:11:28.79,0:11:30.83,Subtitle,,0,0,0,,I'd better get even more powerful, then.
 Dialogue: 0,0:11:30.96,0:11:33.50,Subtitle,,0,0,0,,Your abilities have Evolved.
