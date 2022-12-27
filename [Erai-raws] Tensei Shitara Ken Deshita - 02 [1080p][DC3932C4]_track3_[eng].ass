@@ -1,0 +1,439 @@
+﻿[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle,Swis721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption,Times New Roman,33,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle-2,Swis721 BT,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-2,Staccato222 BT,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-3,Times New Roman,33,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-4,Times New Roman,40,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Subtitle-3,Swis721 BT,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-5,Staccato222 BT,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-6,Times New Roman,25,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-7,Times New Roman,25,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Caption-8,Staccato222 BT,33,&H00B6AFAC,&H00B6AFAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.42,0:00:08.25,Subtitle,,0,0,0,,Beastmen strive to become stronger by Evolving.
+Dialogue: 0,0:00:08.46,0:00:10.63,Subtitle,,0,0,0,,They take great pride in Evolution.
+Dialogue: 0,0:00:14.42,0:00:20.21,Subtitle,,0,0,0,,Fran's parents took their daughter with them\Non their journey to Evolve.
+Dialogue: 0,0:00:21.71,0:00:26.79,Subtitle,,0,0,0,,But no Black Cat has ever been able to Evolve.
+Dialogue: 0,0:00:27.96,0:00:34.46,Subtitle,,0,0,0,,Fran's parents were no luckier. Their journey\Ncame to an end before their reached their goal.
+Dialogue: 0,0:00:37.54,0:00:40.92,Subtitle,,0,0,0,,Now, Fran sets out to fulfill their dream of Evolution...
+Dialogue: 0,0:00:42.63,0:00:47.21,Subtitle,,0,0,0,,...by doing all she can to grow strong and powerful!
+Dialogue: 0,0:00:48.21,0:00:48.96,Subtitle,,0,0,0,,Plus...
+Dialogue: 0,0:00:56.54,0:00:58.21,Subtitle,,0,0,0,,...Fran's got a knack for battle.
+Dialogue: 0,0:00:59.63,0:01:01.63,Subtitle,,0,0,0,,Sword Art: Triple Thrust!
+Dialogue: 0,0:01:06.58,0:01:13.58,Subtitle,,0,0,0,,Whether it's sword arts or magic skills,\Na little teaching's all it takes for her to master 'em.
+Dialogue: 0,0:01:09.33,0:01:12.21,Subtitle-2,,0,0,0,,Create Water.
+Dialogue: 0,0:01:16.58,0:01:18.75,Subtitle,,0,0,0,,You're dirty, too, Teacher.
+Dialogue: 0,0:01:19.21,0:01:22.25,Subtitle,,0,0,0,,But more than anything Fran's such a sweet kid!
+Dialogue: 0,0:01:22.25,0:01:25.58,Subtitle,,0,0,0,,I'm so glad I have an amazing girl like her as my wielder!
+Dialogue: 0,0:01:26.17,0:01:32.25,Subtitle,,0,0,0,,I'm gonna dedicate my life—my NEW life—\Nto making her strong and powerful!
+Dialogue: 0,0:01:36.63,0:01:38.13,Subtitle,,0,0,0,,Fran, what is it?
+Dialogue: 0,0:01:38.79,0:01:40.71,Subtitle,,0,0,0,,Hey! Say something!
+Dialogue: 0,0:03:14.25,0:03:18.00,Subtitle,,0,0,0,,Dammit! Stay back! Get out of here!
+Dialogue: 0,0:03:18.92,0:03:21.83,Subtitle,,0,0,0,,You didn't say we'd encounter goblins on this route!
+Dialogue: 0,0:03:22.17,0:03:23.88,Subtitle,,0,0,0,,Get rid of them, Randell!
+Dialogue: 0,0:03:24.08,0:03:25.38,Subtitle,,0,0,0,,How'm I supposed to-?
+Dialogue: 0,0:03:27.21,0:03:28.04,Subtitle,,0,0,0,,Gross!
+Dialogue: 0,0:03:31.33,0:03:32.63,Subtitle,,0,0,0,,Double Slash.
+Dialogue: 0,0:03:36.00,0:03:36.83,Subtitle,,0,0,0,,I got 'em!
+Dialogue: 0,0:03:41.29,0:03:46.38,Subtitle,,0,0,0,,Sword Art: Aura Blade. Creates a blade of mana\Nwithout needing to draw me.
+Dialogue: 0,0:03:47.42,0:03:50.46,Subtitle,,0,0,0,,It's not that powerful, but it's good for surprise attacks.
+Dialogue: 0,0:03:50.63,0:03:52.25,Subtitle,,0,0,0,,Okay, got it.
+Dialogue: 0,0:03:55.04,0:03:56.50,Subtitle,,0,0,0,,Thank the gods...
+Dialogue: 0,0:03:57.46,0:04:01.38,Subtitle,,0,0,0,,Fran, don't tell anyone I'm a talking sword.
+Dialogue: 0,0:04:02.25,0:04:05.21,Subtitle,,0,0,0,,You're the only one who can hear my telepathy.
+Dialogue: 0,0:04:05.71,0:04:06.25,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:04:06.71,0:04:08.00,Subtitle,,0,0,0,,Thank you so much!
+Dialogue: 0,0:04:08.00,0:04:12.29,Subtitle,,0,0,0,,Could I thank you by giving you a ride?\NWe're headed to the city of Alessa.
+Dialogue: 0,0:04:12.83,0:04:13.88,Subtitle,,0,0,0,,You are?
+Dialogue: 0,0:04:13.88,0:04:17.46,Subtitle,,0,0,0,,Sounds like he wants you to guard his carriage.
+Dialogue: 0,0:04:18.71,0:04:22.13,Subtitle,,0,0,0,,Might as well take him up on the offer.\NHe seems like a stand-up guy.
+Dialogue: 0,0:04:22.92,0:04:25.58,Subtitle,,0,0,0,,Sure, I can keep you safe on the way to the city.
+Dialogue: 0,0:04:26.33,0:04:30.00,Subtitle,,0,0,0,,Oh, boy... Saw right through me, didn't you?
+Dialogue: 0,0:04:33.58,0:04:40.46,Subtitle,,0,0,0,,In the last month, some trouble on the Greatwolf Plain\Nhas the monsters all riled up.
+Dialogue: 0,0:04:40.63,0:04:42.21,Subtitle,,0,0,0,,Where's the Greatwolf Plain?
+Dialogue: 0,0:04:42.67,0:04:45.79,Subtitle,,0,0,0,,It's an A-rank Haunt to the east.
+Dialogue: 0,0:04:46.75,0:04:49.67,Subtitle,,0,0,0,,I'm guessing some tough monsters\Nwere having a turf war,
+Dialogue: 0,0:04:49.83,0:04:58.46,Subtitle,,0,0,0,,cause a bunch of weaker ones like goblins\Nhave been spotted close to busy roads.
+Dialogue: 0,0:04:58.46,0:05:01.50,Subtitle,,0,0,0,,That was the Greatwolf Plain?\NGuess that means this trouble was my fault...
+Dialogue: 0,0:05:02.04,0:05:08.17,Subtitle,,0,0,0,,Stories say the Plain is where\Nthe S-rank monster Fenrir died.
+Dialogue: 0,0:05:09.83,0:05:15.88,Subtitle,,0,0,0,,People think the reason only weak monsters spawn there\Nis 'cause his mana still lingers.
+Dialogue: 0,0:05:16.79,0:05:20.96,Subtitle,,0,0,0,,Oh, so that's why the further out I went,\Nthe stronger they got.
+Dialogue: 0,0:05:21.46,0:05:24.13,Subtitle,,0,0,0,,Fenrir, though. Damn...
+Dialogue: 0,0:05:24.88,0:05:28.54,Subtitle,,0,0,0,,Do you know anything about a sword\Nin the center of that plain?
+Dialogue: 0,0:05:28.67,0:05:31.83,Subtitle,,0,0,0,,Ooh, nice one, Fran! He might know about me!
+Dialogue: 0,0:05:32.42,0:05:33.79,Subtitle,,0,0,0,,Can't say I do.
+Dialogue: 0,0:05:33.79,0:05:35.21,Subtitle,,0,0,0,,Aw, man.
+Dialogue: 0,0:05:35.88,0:05:41.50,Subtitle,,0,0,0,,I know they're only a G-rank threat,\Nbut you took those goblins out like they were nothing.
+Dialogue: 0,0:05:41.75,0:05:45.17,Subtitle,,0,0,0,,I'd say you were an E-Rank Adventurer. I guess right?
+Dialogue: 0,0:05:45.29,0:05:46.63,Subtitle,,0,0,0,,G-rank threat?
+Dialogue: 0,0:05:46.63,0:05:47.92,Subtitle,,0,0,0,,Adventurer?!
+Dialogue: 0,0:05:48.42,0:05:51.79,Subtitle,,0,0,0,,Huh? You've never heard that before? Oh, boy.
+Dialogue: 0,0:05:52.38,0:05:57.25,Subtitle,,0,0,0,,Each monster has a threat rank\Nthat tells you how dangerous they are.
+Dialogue: 0,0:05:58.13,0:06:02.88,Subtitle,,0,0,0,,There are people who take requests\Nto hunt those monsters. We call them...
+Dialogue: 0,0:06:03.21,0:06:04.38,Subtitle,,0,0,0,,Adventurers!
+Dialogue: 0,0:06:04.38,0:06:05.38,Subtitle,,0,0,0,,That's right.
+Dialogue: 0,0:06:06.75,0:06:11.71,Subtitle,,0,0,0,,Adventurers go from legendary\NS-Ranks to newbie G-ranks.
+Dialogue: 0,0:06:12.25,0:06:16.00,Subtitle,,0,0,0,,You might've heard of famous A-ranks\Nlike Forlund of the Hundred Swords,
+Dialogue: 0,0:06:16.00,0:06:17.83,Subtitle,,0,0,0,,or Amanda the Great Mother.
+Dialogue: 0,0:06:19.83,0:06:21.79,Subtitle,,0,0,0,,Adventurers are so cool...
+Dialogue: 0,0:06:22.54,0:06:24.04,Subtitle,,0,0,0,,How do you become one?
+Dialogue: 0,0:06:24.17,0:06:25.08,Subtitle,,0,0,0,,Oh?
+Dialogue: 0,0:06:25.83,0:06:28.38,Subtitle,,0,0,0,,You just have to register at the Adventurer's Guild.
+Dialogue: 0,0:06:28.96,0:06:31.58,Subtitle,,0,0,0,,The Guild will also appraise and buy materials\Nobtained from slain monsters.
+Dialogue: 0,0:06:32.46,0:06:37.79,Subtitle,,0,0,0,,That means we can earn us some money.\NYou're gonna be eating well, Fran!
+Dialogue: 0,0:06:38.21,0:06:40.42,Subtitle,,0,0,0,,I want money...
+Dialogue: 0,0:06:41.92,0:06:43.21,Subtitle,,0,0,0,,Don't be ridiculous.
+Dialogue: 0,0:06:43.79,0:06:46.63,Subtitle,,0,0,0,,A weak Black Cat girl could never be an adventurer.
+Dialogue: 0,0:06:56.88,0:06:58.50,Subtitle,,0,0,0,,Look at this sleepyhead.
+Dialogue: 0,0:06:59.21,0:07:06.17,Subtitle,,0,0,0,,Not that I blame her. She was up late last night\Npracticing Skills and butchering monsters.
+Dialogue: 0,0:07:03.79,0:07:12.75,Subtitle-2,,0,0,0,,Teacher's cooking... Makes even grilled meat yummy...
+Dialogue: 0,0:07:07.04,0:07:12.75,Subtitle,,0,0,0,,Can kids just up and become adventurers here, though?
+Dialogue: 0,0:07:30.33,0:07:32.42,Subtitle,,0,0,0,,That's the city of Alessa.
+Dialogue: 0,0:07:33.13,0:07:35.54,Subtitle,,0,0,0,,I'll pay for you to enter the city.
+Dialogue: 0,0:07:35.92,0:07:37.88,Subtitle,,0,0,0,,Randell, you're so nice!
+Dialogue: 0,0:07:41.46,0:07:44.08,Subtitle,,0,0,0,,Here we are, Fran! Your first time...
+Dialogue: 0,0:07:44.79,0:07:46.29,Subtitle,,0,0,0,,...in a city!
+Dialogue: 0,0:07:51.75,0:07:53.92,Subtitle,,0,0,0,,See her with that big-ass sword?
+Dialogue: 0,0:07:54.25,0:07:56.17,Subtitle,,0,0,0,,Wow, what a joke.
+Dialogue: 0,0:07:56.17,0:07:59.00,Subtitle,,0,0,0,,First off, let's hit up the Adventurer's Guild.
+Dialogue: 0,0:07:59.21,0:07:59.83,Subtitle,,0,0,0,,Okay!
+Dialogue: 0,0:08:02.21,0:08:04.33,Subtitle,,0,0,0,,So these are the guild adventurers...
+Dialogue: 0,0:08:05.08,0:08:06.75,Subtitle,,0,0,0,,They've got all sorts of weapons.
+Dialogue: 0,0:08:07.08,0:08:12.25,Subtitle,,0,0,0,,Meh, none of them are as rare as me, though.\NLet's check 'em out with Identify!
+Dialogue: 0,0:08:13.71,0:08:16.71,Subtitle,,0,0,0,,Mm-hmm, Attack: 398.
+Dialogue: 0,0:08:18.21,0:08:18.79,Subtitle,,0,0,0,,Huh?!
+Dialogue: 0,0:08:19.88,0:08:21.08,Subtitle,,0,0,0,,423...
+Dialogue: 0,0:08:21.71,0:08:23.79,Subtitle,,0,0,0,,That one, and that one too...
+Dialogue: 0,0:08:24.79,0:08:33.83,Subtitle,,0,0,0,,I thought I was super rare,\Nbut everyone's swords are way stronger than me!
+Dialogue: 0,0:08:33.83,0:08:34.79,Subtitle,,0,0,0,,Teacher...
+Dialogue: 0,0:08:35.83,0:08:38.29,Subtitle,,0,0,0,,You're amazing, Teacher. You saved me!
+Dialogue: 0,0:08:38.29,0:08:39.79,Subtitle,,0,0,0,,And you're real pretty, too.
+Dialogue: 0,0:08:39.79,0:08:43.79,Subtitle,,0,0,0,,You have lots of skills. No other sword could compare!
+Dialogue: 0,0:08:44.83,0:08:47.00,Subtitle,,0,0,0,,Thank you, Fran.
+Dialogue: 0,0:08:47.00,0:08:48.58,Subtitle-3,,0,0,0,,No, thank you.
+Dialogue: 0,0:08:49.08,0:08:51.63,Subtitle,,0,0,0,,Fran is such a sweetheart.
+Dialogue: 0,0:08:52.00,0:08:55.46,Subtitle,,0,0,0,,That's it! I'm gonna support Fran with all my Skills!
+Dialogue: 0,0:08:55.46,0:08:58.54,Subtitle,,0,0,0,,That's my new purpose in life!
+Dialogue: 0,0:09:00.33,0:09:01.83,Subtitle,,0,0,0,,Piss off and die.
+Dialogue: 0,0:09:04.04,0:09:07.67,Subtitle,,0,0,0,,I know you can hear me, four-eyes!
+Dialogue: 0,0:09:08.08,0:09:09.83,Subtitle,,0,0,0,,Piss off and die.
+Dialogue: 0,0:09:10.17,0:09:13.71,Subtitle,,0,0,0,,Screw that bitch. Cheap-ass miser.
+Dialogue: 0,0:09:14.29,0:09:16.88,Subtitle,,0,0,0,,Ex-mercenary trash.
+Dialogue: 0,0:09:18.08,0:09:20.00,Subtitle,,0,0,0,,They can all piss off and die.
+Dialogue: 0,0:09:21.25,0:09:23.46,Subtitle,,0,0,0,,Oh, shoot! I need to smile, c'mon!
+Dialogue: 0,0:09:23.46,0:09:28.29,Subtitle,,0,0,0,,Bad day or not, I have to be Nell,\Nsmiling receptionist of the Adventurer's...
+Dialogue: 0,0:09:26.71,0:09:28.29,Subtitle-2,,0,0,0,,'Scuse me!
+Dialogue: 0,0:09:29.08,0:09:30.79,Subtitle,,0,0,0,,Um...
+Dialogue: 0,0:09:31.79,0:09:34.13,Subtitle,,0,0,0,,This is the Adventurer's Guild, hun.
+Dialogue: 0,0:09:34.29,0:09:37.08,Subtitle,,0,0,0,,I know. I wanna be an adventurer.
+Dialogue: 0,0:09:38.50,0:09:44.88,Subtitle,,0,0,0,,She's just a child, and adventuring is dangerous.\NShe wouldn't last five minutes.
+Dialogue: 0,0:09:45.88,0:09:50.08,Subtitle,,0,0,0,,Okay, but we don't let just anyone register with us.
+Dialogue: 0,0:09:50.08,0:09:50.67,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:09:50.88,0:09:54.42,Subtitle,,0,0,0,,You'd have to fight our examiner in a mock battle.
+Dialogue: 0,0:09:54.42,0:09:55.08,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:09:55.21,0:09:58.54,Subtitle,,0,0,0,,And you might get hurt.
+Dialogue: 0,0:09:58.54,0:10:01.96,Subtitle,,0,0,0,,Our guild will not take responsibility\Nfor any injuries incurred.
+Dialogue: 0,0:10:02.25,0:10:03.17,Subtitle,,0,0,0,,Got it.
+Dialogue: 0,0:10:05.17,0:10:08.13,Subtitle,,0,0,0,,She's just another kid who needs to learn a hard lesson...
+Dialogue: 0,0:10:08.46,0:10:10.17,Subtitle,,0,0,0,,This way, then.
+Dialogue: 0,0:10:14.50,0:10:18.38,Subtitle,,0,0,0,,Damn, this is more legit than I thought.
+Dialogue: 0,0:10:19.42,0:10:21.75,Subtitle,,0,0,0,,You the person wantin' to register?
+Dialogue: 0,0:10:28.42,0:10:30.75,Subtitle,,0,0,0,,I'm the official examiner for Alessa's Adventurer's Guild.
+Dialogue: 0,0:10:31.13,0:10:33.79,Subtitle,,0,0,0,,THE GREAT AND POWERFUL DONADROND!
+Dialogue: 0,0:10:36.46,0:10:41.63,Subtitle,,0,0,0,,Donadrond sure does make his fellow Ogres proud\Nwith his intense Intimidation.
+Dialogue: 0,0:10:42.13,0:10:47.33,Subtitle,,0,0,0,,Most would-be recruits turn tail and run when they're hit\Nwith his Intimidation skill, let alone fight him.
+Dialogue: 0,0:10:47.71,0:10:51.33,Subtitle,,0,0,0,,That's the first trial that weeds out\Nanyone who doesn't have what it takes.
+Dialogue: 0,0:10:52.33,0:10:52.92,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:10:53.08,0:10:55.08,Subtitle,,0,0,0,,She's not affected by his Intimidation!
+Dialogue: 0,0:10:55.58,0:10:57.21,Subtitle,,0,0,0,,Fran, you all right?
+Dialogue: 0,0:10:57.21,0:10:57.83,Subtitle,,0,0,0,,Yeah.
+Dialogue: 0,0:10:58.17,0:11:00.00,Subtitle,,0,0,0,,Let's Identify this guy.
+Dialogue: 0,0:11:01.13,0:11:03.42,Subtitle,,0,0,0,,Donadrond the Ogre, eh?
+Dialogue: 0,0:11:03.42,0:11:04.42,Subtitle,,0,0,0,,That's a lotta Ds.
+Dialogue: 0,0:11:04.75,0:11:05.54,Subtitle,,0,0,0,,Hold up.
+Dialogue: 0,0:11:06.13,0:11:08.17,Subtitle,,0,0,0,,This guy is crazy strong...
+Dialogue: 0,0:11:10.46,0:11:13.04,Subtitle,,0,0,0,,Attack: 650?!
+Dialogue: 0,0:11:13.38,0:11:15.42,Subtitle,,0,0,0,,That's not important, Teacher.
+Dialogue: 0,0:11:15.67,0:11:16.79,Subtitle,,0,0,0,,I know.
+Dialogue: 0,0:11:17.04,0:11:19.79,Subtitle,,0,0,0,,I don't like holding back.
+Dialogue: 0,0:11:20.00,0:11:22.46,Subtitle,,0,0,0,,I'll come at you with all I got!
+Dialogue: 0,0:11:23.75,0:11:25.17,Subtitle,,0,0,0,,I'd like that.
+Dialogue: 0,0:11:27.83,0:11:31.33,Subtitle,,0,0,0,,Fran, he's definitely the toughest guy you've faced yet.
+Dialogue: 0,0:11:31.63,0:11:33.21,Subtitle,,0,0,0,,Don't you hold back either, okay?
+Dialogue: 0,0:11:33.21,0:11:34.00,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:11:34.92,0:11:37.21,Subtitle,,0,0,0,,Let the test begin!
+Dialogue: 0,0:11:40.21,0:11:42.58,Subtitle,,0,0,0,,That little thing went in to take the test!
+Dialogue: 0,0:11:42.88,0:11:44.38,Subtitle,,0,0,0,,Bet she lost in two seconds flat.
+Dialogue: 0,0:11:47.75,0:11:48.33,Subtitle,,0,0,0,,Here he comes!
+Dialogue: 0,0:11:54.71,0:11:55.79,Subtitle,,0,0,0,,You dodged!
+Dialogue: 0,0:11:58.21,0:11:59.54,Subtitle,,0,0,0,,That was close!
+Dialogue: 0,0:12:01.58,0:12:02.17,Subtitle,,0,0,0,,Fran!
+Dialogue: 0,0:12:03.33,0:12:06.08,Subtitle,,0,0,0,,Slam Smash!
+Dialogue: 0,0:12:08.54,0:12:11.29,Subtitle,,0,0,0,,Nice, Fran! Good dodge!
+Dialogue: 0,0:12:19.79,0:12:22.21,Subtitle,,0,0,0,,Power Swing!
+Dialogue: 0,0:12:24.79,0:12:25.58,Subtitle,,0,0,0,,Watch out!
+Dialogue: 0,0:12:26.00,0:12:27.67,Subtitle,,0,0,0,,He's going way too hard on her!
+Dialogue: 0,0:12:29.58,0:12:32.58,Subtitle,,0,0,0,,I'll keep Fran safe!
+Dialogue: 0,0:12:36.67,0:12:38.83,Subtitle,,0,0,0,,You used your sword to weaken the blow.
+Dialogue: 0,0:12:40.38,0:12:43.58,Subtitle,,0,0,0,,Fran, don't take his attacks head-on with me!
+Dialogue: 0,0:12:43.71,0:12:46.04,Subtitle,,0,0,0,,But I can't just keep running away!
+Dialogue: 0,0:12:46.33,0:12:49.04,Subtitle,,0,0,0,,You're right. Lemme cast a buff on you.
+Dialogue: 0,0:12:49.21,0:12:50.67,Subtitle,,0,0,0,,It'll improve your attack power!
+Dialogue: 0,0:12:50.67,0:12:51.42,Subtitle,,0,0,0,,Okay!
+Dialogue: 0,0:12:51.42,0:12:54.46,Subtitle,,0,0,0,,Teacher cast a support spell.
+Dialogue: 0,0:12:54.63,0:12:59.67,Subtitle,,0,0,0,,Fran's STR and AGI have temporarily increased.
+Dialogue: 0,0:13:06.58,0:13:08.54,Subtitle,,0,0,0,,That's a high-level sword you got there.
+Dialogue: 0,0:13:08.96,0:13:10.38,Subtitle,,0,0,0,,But it's not enough!
+Dialogue: 0,0:13:11.79,0:13:13.33,Subtitle,,0,0,0,,His wounds are healing!
+Dialogue: 0,0:13:13.54,0:13:15.38,Subtitle,,0,0,0,,Donadrond don't stop!
+Dialogue: 0,0:13:17.83,0:13:18.88,Subtitle,,0,0,0,,I want...
+Dialogue: 0,0:13:21.00,0:13:23.58,Subtitle,,0,0,0,,...to be an adventurer!
+Dialogue: 0,0:13:25.29,0:13:28.13,Subtitle,,0,0,0,,What?! Earth magic?!
+Dialogue: 0,0:13:28.46,0:13:30.67,Subtitle,,0,0,0,,Leave the magic to me!
+Dialogue: 0,0:13:31.00,0:13:32.13,Subtitle,,0,0,0,,Fire Spell!
+Dialogue: 0,0:13:33.08,0:13:35.13,Subtitle,,0,0,0,,Tri Explosion!
+Dialogue: 0,0:13:37.88,0:13:40.67,Subtitle,,0,0,0,,No way... She cast several spells\Nwithout speaking them aloud?!
+Dialogue: 0,0:13:41.33,0:13:44.38,Subtitle,,0,0,0,,And that was a high-level fire spell just now!
+Dialogue: 0,0:13:45.46,0:13:46.63,Subtitle,,0,0,0,,I'll finish this.
+Dialogue: 0,0:13:48.58,0:13:49.58,Subtitle,,0,0,0,,Sword Art!
+Dialogue: 0,0:13:52.08,0:13:54.33,Subtitle,,0,0,0,,Dragon Fang!
+Dialogue: 0,0:14:01.88,0:14:07.13,Subtitle,,0,0,0,,She built up to that huge Sword Art\Nwhile also casting all those spells?!
+Dialogue: 0,0:14:07.54,0:14:10.67,Subtitle,,0,0,0,,She couldn't do that without having at least\Ntwo heads to think at once!
+Dialogue: 0,0:14:10.88,0:14:14.29,Subtitle,,0,0,0,,I've never seen even high-rank adventurers fight like that!
+Dialogue: 0,0:14:15.63,0:14:16.88,Subtitle,,0,0,0,,Do I pass?
+Dialogue: 0,0:14:18.29,0:14:22.17,Subtitle,,0,0,0,,Um, yes, it looks like it.
+Dialogue: 0,0:14:24.42,0:14:26.04,Subtitle,,0,0,0,,She beat me good!
+Dialogue: 0,0:14:26.58,0:14:30.63,Subtitle,,0,0,0,,A loss is no laughing matter, Donadrond.
+Dialogue: 0,0:14:31.17,0:14:32.88,Subtitle,,0,0,0,,Uh! Sorry, sir.
+Dialogue: 0,0:14:33.29,0:14:34.71,Subtitle,,0,0,0,,Right then, Miss Fran.
+Dialogue: 0,0:14:35.08,0:14:38.08,Subtitle,,0,0,0,,Only twelve years of age,\Nbut already using mid-tier Sword Arts,
+Dialogue: 0,0:14:38.08,0:14:41.79,Subtitle,,0,0,0,,and casting Level 10 fire spells\Nwithout saying the encantation aloud...
+Dialogue: 0,0:14:42.38,0:14:43.00,Subtitle,,0,0,0,,Wherever did you learn-
+Dialogue: 0,0:14:43.00,0:14:43.88,Subtitle,,0,0,0,,I'm not telling.
+Dialogue: 0,0:14:43.88,0:14:44.88,Subtitle,,0,0,0,,I see...
+Dialogue: 0,0:14:45.25,0:14:48.63,Subtitle,,0,0,0,,Don't tell anyone about us and what we can do.
+Dialogue: 0,0:14:49.58,0:14:54.96,Subtitle,,0,0,0,,If the wrong person finds out,\Nthey might use it to spot our weakness.
+Dialogue: 0,0:14:55.38,0:14:57.08,Subtitle,,0,0,0,,My lips are sealed.
+Dialogue: 0,0:14:58.50,0:15:00.96,Subtitle,,0,0,0,,Good grief... Very well.
+Dialogue: 0,0:15:01.50,0:15:02.46,Subtitle,,0,0,0,,Identify.
+Dialogue: 0,0:15:03.79,0:15:05.96,Subtitle,,0,0,0,,You have Identity Protection, too?
+Dialogue: 0,0:15:06.21,0:15:11.00,Subtitle,,0,0,0,,Glad I used my Evolution Points on that one.\NKnew we'd need it!
+Dialogue: 0,0:15:12.58,0:15:14.33,Subtitle,,0,0,0,,Are you gonna turn me down?
+Dialogue: 0,0:15:14.33,0:15:20.83,Subtitle,,0,0,0,,No, you pass. A few things still don't quite\Nmake sense, but the spirits are calm.
+Dialogue: 0,0:15:20.83,0:15:21.88,Subtitle,,0,0,0,,Spirits?
+Dialogue: 0,0:15:22.13,0:15:25.25,Subtitle,,0,0,0,,Yes, they're very sensitive\Nto ill intentions or dark thoughts.
+Dialogue: 0,0:15:26.13,0:15:30.92,Subtitle,,0,0,0,,I can use them to tell if you harbor any ill will\Ntowards us or others.
+Dialogue: 0,0:15:33.33,0:15:35.67,Subtitle,,0,0,0,,He can use Spirit Magic...
+Dialogue: 0,0:15:35.67,0:15:37.88,Subtitle,,0,0,0,,And has tons of high-level skills.
+Dialogue: 0,0:15:39.92,0:15:41.38,Subtitle,,0,0,0,,Everything is in order.
+Dialogue: 0,0:15:43.13,0:15:45.54,Subtitle,,0,0,0,,Issue her a guild card.
+Dialogue: 0,0:15:49.46,0:15:51.79,Subtitle,,0,0,0,,Touch this crystal, please.
+Dialogue: 0,0:15:52.33,0:15:54.96,Subtitle,,0,0,0,,It will record your mana signature.
+Dialogue: 0,0:15:57.04,0:15:59.08,Subtitle,,0,0,0,,You'll also need to pick a class.
+Dialogue: 0,0:15:59.25,0:16:00.29,Subtitle,,0,0,0,,What's a class?
+Dialogue: 0,0:16:00.29,0:16:03.63,Subtitle,,0,0,0,,A class gives you different skills and abilities.
+Dialogue: 0,0:16:03.63,0:16:07.29,Subtitle,,0,0,0,,You should choose a class\Nthat gives you the powers you're seeking.
+Dialogue: 0,0:16:07.63,0:16:09.96,Subtitle,,0,0,0,,The classes available to you are...
+Dialogue: 0,0:16:10.63,0:16:11.29,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:16:11.54,0:16:17.08,Subtitle,,0,0,0,,Fighter, Swordsman, Spellword, Summoner...\NAnd so many more!
+Dialogue: 0,0:16:17.08,0:16:19.54,Subtitle,,0,0,0,,You have so many possibilities!
+Dialogue: 0,0:16:19.54,0:16:22.92,Subtitle,,0,0,0,,Shoot, I might be sharing too many skills with her...
+Dialogue: 0,0:16:23.38,0:16:29.79,Subtitle,,0,0,0,,This is absolutely insane...\NThough I suppose I shouldn't be surprised anymore.
+Dialogue: 0,0:16:30.04,0:16:33.00,Subtitle,,0,0,0,,A Spellsword sounds cool.
+Dialogue: 0,0:16:33.21,0:16:37.29,Subtitle,,0,0,0,,Why not grab it, then? Looks like you can use\Nboth Sword Arts and spells that way.
+Dialogue: 0,0:16:37.29,0:16:38.88,Subtitle,,0,0,0,,I'll be a Spellword!
+Dialogue: 0,0:16:39.54,0:16:43.71,Subtitle,,0,0,0,,Wielder Fran's class is now Spellsword.
+Dialogue: 0,0:16:44.71,0:16:47.92,Subtitle,,0,0,0,,And that's that. Here is your guild card.
+Dialogue: 0,0:16:49.29,0:16:51.88,Subtitle,,0,0,0,,I'm an adventurer!
+Dialogue: 0,0:16:53.83,0:16:54.88,Subtitle,,0,0,0,,Something else you need?
+Dialogue: 0,0:16:55.88,0:16:59.17,Subtitle,,0,0,0,,I see. You'd like to sell us materials, then?
+Dialogue: 0,0:16:59.29,0:17:01.83,Subtitle,,0,0,0,,I gotta or I won't have money for a room.
+Dialogue: 0,0:17:01.83,0:17:03.58,Subtitle,,0,0,0,,Ah, yes...
+Dialogue: 0,0:17:03.58,0:17:06.96,Subtitle,,0,0,0,,Okay, Fran. Let's pull some stuff\Nout of our Pocket Dimension.
+Dialogue: 0,0:17:07.13,0:17:10.17,Subtitle,,0,0,0,,Pretend you're grabbing it from your item bag.
+Dialogue: 0,0:17:10.17,0:17:10.88,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:17:16.54,0:17:19.96,Subtitle,,0,0,0,,We'll stick with low and mid-rank stuff for now.
+Dialogue: 0,0:17:19.96,0:17:23.58,Subtitle,,0,0,0,,Y-you butchered and prepared these yourself?!
+Dialogue: 0,0:17:23.58,0:17:24.29,Subtitle,,0,0,0,,Uh-huh.
+Dialogue: 0,0:17:24.71,0:17:27.50,Subtitle,,0,0,0,,Wow, uh, p-please give me a moment!
+Dialogue: 0,0:17:30.42,0:17:33.79,Subtitle,,0,0,0,,Your total payment comes out to 195,000 gold.
+Dialogue: 0,0:17:34.46,0:17:37.25,Subtitle,,0,0,0,,I've never seen so much gold before...
+Dialogue: 0,0:17:37.50,0:17:41.38,Subtitle,,0,0,0,,From the prices I saw in the market,\None gold is around 10 yen...
+Dialogue: 0,0:17:41.79,0:17:44.54,Subtitle,,0,0,0,,So we just made 1.9 million yen?! Holy shit!
+Dialogue: 0,0:17:44.67,0:17:50.50,Subtitle,,0,0,0,,Some materials came from F-Rank monsters,\Nand they were butchered extremely cleanly.
+Dialogue: 0,0:17:50.75,0:17:53.92,Subtitle,,0,0,0,,Thanks, lady. I can get a room now.
+Dialogue: 0,0:17:54.46,0:17:57.08,Subtitle,,0,0,0,,Please, call me Nell, Miss Fran.
+Dialogue: 0,0:17:57.58,0:17:59.92,Subtitle,,0,0,0,,Okay. Thanks, Nell.
+Dialogue: 0,0:18:00.54,0:18:04.21,Subtitle,,0,0,0,,Sweet, let's go find us a room!
+Dialogue: 0,0:18:04.58,0:18:05.33,Subtitle,,0,0,0,,Okay.
+Dialogue: 0,0:18:08.67,0:18:10.46,Subtitle,,0,0,0,,Hold up there.
+Dialogue: 0,0:18:10.75,0:18:13.17,Subtitle,,0,0,0,,Fran, just pretend you don't hear 'em.
+Dialogue: 0,0:18:13.17,0:18:14.04,Subtitle,,0,0,0,,Mm-kay.
+Dialogue: 0,0:18:14.42,0:18:15.83,Subtitle,,0,0,0,,HEY, YOU!
+Dialogue: 0,0:18:15.83,0:18:18.04,Subtitle,,0,0,0,,We told you to hold up!
+Dialogue: 0,0:18:19.25,0:18:21.38,Subtitle,,0,0,0,,You hear us, you little twerp?!
+Dialogue: 0,0:18:21.38,0:18:21.96,Subtitle,,0,0,0,,What?
+Dialogue: 0,0:18:22.42,0:18:26.38,Subtitle,,0,0,0,,You didn't earn that fair and square, did ya?
+Dialogue: 0,0:18:26.88,0:18:29.17,Subtitle,,0,0,0,,What? The hell are they talking about?
+Dialogue: 0,0:18:29.42,0:18:30.42,Subtitle,,0,0,0,,You reek!
+Dialogue: 0,0:18:31.46,0:18:35.25,Subtitle,,0,0,0,,I do not. I took a bath in the river this morning.
+Dialogue: 0,0:18:35.50,0:18:36.54,Subtitle,,0,0,0,,Gross!
+Dialogue: 0,0:18:36.54,0:18:38.29,Subtitle,,0,0,0,,Way to contaminate the water!
+Dialogue: 0,0:18:38.46,0:18:42.50,Subtitle,,0,0,0,,Underhanded shit's the only way\Na stinky cat like you could get by!
+Dialogue: 0,0:18:42.79,0:18:44.50,Subtitle,,0,0,0,,This shit again?
+Dialogue: 0,0:18:45.38,0:18:48.88,Subtitle,,0,0,0,,Is this what Fran has to put up with all the time?
+Dialogue: 0,0:18:49.67,0:18:50.38,Subtitle,,0,0,0,,Fran...
+Dialogue: 0,0:18:50.75,0:18:56.00,Subtitle,,0,0,0,,We just sold a bunch of Twin-Headed Bear\Nshit, too, for cheap change!
+Dialogue: 0,0:18:56.00,0:18:58.75,Subtitle,,0,0,0,,That means you had to have done something dirty.
+Dialogue: 0,0:18:59.17,0:19:02.75,Subtitle,,0,0,0,,You make some kinda deal with that\Nfour-eyed bitch over there, huh?!
+Dialogue: 0,0:19:03.63,0:19:05.13,Subtitle,,0,0,0,,Four-eyed bitch?
+Dialogue: 0,0:19:05.38,0:19:10.33,Subtitle,,0,0,0,,Give us what you made and we'll let you\Nand your underhanded shit slide.
+Dialogue: 0,0:19:10.58,0:19:12.83,Subtitle,,0,0,0,,Nothing underhanded took place in either transaction.
+Dialogue: 0,0:19:13.13,0:19:18.29,Subtitle,,0,0,0,,The materials you sold were badly damaged\Nand improperly butchered,
+Dialogue: 0,0:19:18.71,0:19:22.08,Subtitle,,0,0,0,,likely as a result of ganging up on the creature\Nand wailing upon it until it died.
+Dialogue: 0,0:19:22.25,0:19:24.38,Subtitle,,0,0,0,,And what's so wrong about that?
+Dialogue: 0,0:19:24.58,0:19:28.29,Subtitle,,0,0,0,,Adventurers who wish to sell materials for high prices
+Dialogue: 0,0:19:28.29,0:19:32.71,Subtitle,,0,0,0,,must slay the creature properly\Nand carefully dissect the materials!
+Dialogue: 0,0:19:33.71,0:19:37.92,Subtitle,,0,0,0,,Adventurers who use their own ignorance\Nas pretext for robbery...
+Dialogue: 0,0:19:38.79,0:19:40.92,Subtitle,,0,0,0,,...should piss off and die.
+Dialogue: 0,0:19:42.96,0:19:43.79,Subtitle,,0,0,0,,What?
+Dialogue: 0,0:19:43.88,0:19:46.83,Subtitle,,0,0,0,,Did you just tell us to piss off and die?!
+Dialogue: 0,0:19:46.83,0:19:47.46,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:19:47.46,0:19:50.58,Subtitle,,0,0,0,,Dammit, Nell, you said it out loud this time!
+Dialogue: 0,0:19:51.00,0:19:52.83,Subtitle,,0,0,0,,You arrogant bitch...
+Dialogue: 0,0:19:52.83,0:19:55.04,Subtitle,,0,0,0,,Time for you to die instead!
+Dialogue: 0,0:19:57.13,0:19:59.46,Subtitle,,0,0,0,,I won't let you lay a finger on her.
+Dialogue: 0,0:19:59.79,0:20:01.00,Subtitle,,0,0,0,,Miss Fran...
+Dialogue: 0,0:20:01.79,0:20:05.63,Subtitle,,0,0,0,,Weak chickenshit beastman...\NYou dare talk back to a Red Dog?!
+Dialogue: 0,0:20:05.88,0:20:07.13,Subtitle,,0,0,0,,Can I stab him?
+Dialogue: 0,0:20:07.13,0:20:10.38,Subtitle,,0,0,0,,Whoa, you probably shouldn't\Npull me on him inside the guild.
+Dialogue: 0,0:20:10.71,0:20:13.25,Subtitle,,0,0,0,,We're ex-mercenaries!
+Dialogue: 0,0:20:13.50,0:20:19.17,Subtitle,,0,0,0,,We ate kids like you for breakfast on the battlefield.
+Dialogue: 0,0:20:19.17,0:20:20.67,Subtitle,,0,0,0,,They're blocking the way out...
+Dialogue: 0,0:20:20.79,0:20:24.00,Subtitle,,0,0,0,,We'll beat the shit out of you then sell you to a slaver.
+Dialogue: 0,0:20:24.17,0:20:28.38,Subtitle,,0,0,0,,Not sure anyone will wanna buy\Na Black Cat that stinks worse than shit, though.
+Dialogue: 0,0:20:32.63,0:20:33.42,Subtitle,,0,0,0,,Wha...?
+Dialogue: 0,0:20:34.08,0:20:36.88,Subtitle,,0,0,0,,My feet! My fucking feet!
+Dialogue: 0,0:20:37.21,0:20:39.92,Subtitle,,0,0,0,,Huh? I didn't do anything.
+Dialogue: 0,0:20:40.21,0:20:42.58,Subtitle,,0,0,0,,Don't insult Black Cats.
+Dialogue: 0,0:20:42.75,0:20:44.17,Subtitle,,0,0,0,,Wait, was that Fran?!
+Dialogue: 0,0:20:44.33,0:20:50.04,Subtitle,,0,0,0,,I didn't unsheathe you.\NI used Vibrofang to sharpen my Aura Blade.
+Dialogue: 0,0:20:50.17,0:20:54.67,Subtitle,,0,0,0,,For real? She put those two together that fast...
+Dialogue: 0,0:20:55.25,0:20:56.29,Subtitle,,0,0,0,,You bitch!
+Dialogue: 0,0:20:56.29,0:20:57.67,Subtitle,,0,0,0,,Damn Black Cat!
+Dialogue: 0,0:20:57.88,0:20:59.58,Subtitle,,0,0,0,,We'll tear you to pieces!
+Dialogue: 0,0:21:01.71,0:21:03.13,Subtitle,,0,0,0,,Oscillation.
+Dialogue: 0,0:21:03.13,0:21:04.79,Subtitle,,0,0,0,,Y-you...
+Dialogue: 0,0:21:09.00,0:21:15.25,Subtitle,,0,0,0,,Good job, Fran. Oscillation destroys them\Nfrom the inisde out. He's not getting up anytime soon.
+Dialogue: 0,0:21:15.25,0:21:15.96,Subtitle,,0,0,0,,Yup.
+Dialogue: 0,0:21:16.17,0:21:17.63,Subtitle,,0,0,0,,Nice going, kid!
+Dialogue: 0,0:21:17.63,0:21:19.17,Subtitle,,0,0,0,,Good shit!
+Dialogue: 0,0:21:19.17,0:21:20.96,Subtitle,,0,0,0,,Good job, Fran.
+Dialogue: 0,0:21:21.13,0:21:22.38,Subtitle,,0,0,0,,Good job, my ass!
+Dialogue: 0,0:21:22.38,0:21:25.42,Subtitle,,0,0,0,,Call the guard! Arrest this little shit!
+Dialogue: 0,0:21:25.54,0:21:28.58,Subtitle,,0,0,0,,What? That was clearly an act of self-defense.
+Dialogue: 0,0:21:28.58,0:21:31.46,Subtitle,,0,0,0,,Despite being a "four-eyed bitch,"\Nit was clear as day to me.
+Dialogue: 0,0:21:31.46,0:21:35.38,Subtitle,,0,0,0,,Though we will need you to pay to clean up this mess.
+Dialogue: 0,0:21:35.38,0:21:36.96,Subtitle,,0,0,0,,100,000 gold will do.
+Dialogue: 0,0:21:37.25,0:21:40.79,Subtitle,,0,0,0,,We won't provide healing services\Nuntil that bill is paid. Understood?
+Dialogue: 0,0:21:40.79,0:21:44.17,Subtitle,,0,0,0,,Fran, we should try not to piss off Nell.
+Dialogue: 0,0:21:44.17,0:21:45.00,Subtitle,,0,0,0,,Yeah.
+Dialogue: 0,0:21:45.25,0:21:46.83,Subtitle,,0,0,0,,I'll handle the rest.
+Dialogue: 0,0:21:47.00,0:21:49.54,Subtitle,,0,0,0,,Okay. Thanks, Nell.
+Dialogue: 0,0:21:49.71,0:21:55.00,Subtitle,,0,0,0,,All right, let's find us a bed and buy you some new gear!
+Dialogue: 0,0:21:55.25,0:21:57.13,Subtitle,,0,0,0,,Gear? I want gear!
+Dialogue: 0,0:21:57.79,0:22:00.75,Subtitle,,0,0,0,,You can't deceive my Godsight.
+Dialogue: 0,0:22:01.67,0:22:04.58,Subtitle,,0,0,0,,That's an Intelligent Weapon.
+Dialogue: 0,0:01:05.83,0:01:09.33,Caption,,0,0,0,,{\pos(832,79.2)}{\an7}Name: Fran
+Dialogue: 0,0:01:05.83,0:01:09.33,Caption,,0,0,0,,{\pos(832,144)}{\an7} Age: 12
+Dialogue: 0,0:01:05.83,0:01:09.33,Caption,,0,0,0,,{\pos(819.2,208.8)}{\an7} Race: Beastman, Black Cat
+Dialogue: 0,0:01:05.84,0:01:09.33,Caption,,0,0,0,,{\pos(819.2,273.6)}{\an7}Class: None
+Dialogue: 0,0:01:05.84,0:01:09.33,Caption,,0,0,0,,{\pos(832,396)}{\an7}VIT:
+Dialogue: 0,0:01:05.84,0:01:09.33,Caption,,0,0,0,,{\pos(934.4,396)}{\an7}INT:
+Dialogue: 0,0:01:05.84,0:01:09.33,Caption,,0,0,0,,{\pos(832,468)}{\an7}STR:
+Dialogue: 0,0:01:05.84,0:01:09.33,Caption,,0,0,0,,{\pos(947.2,468)}{\an7}AGI:
+Dialogue: 0,0:01:07.29,0:01:09.33,Caption,,0,0,0,,{\pos(102.4,72)}{\an7}Skills: Sword Mastery 1, Darkvision,
+Dialogue: 0,0:01:07.29,0:01:09.33,Caption,,0,0,0,,{\pos(217.6,144)}{\an7}Expert Butcher,
+Dialogue: 0,0:01:07.29,0:01:09.33,Caption,,0,0,0,,{\pos(230.4,208.8)}{\an7}Wayfinder
+Dialogue: 0,0:03:14.96,0:03:17.96,Caption-2,,0,0,0,,{\pos(102.4,489.6)}{\an7}EPISODE 2:
+Dialogue: 0,0:03:14.96,0:03:17.96,Caption-2,,0,0,0,,{\pos(128,540)}{\an7}THE HELLISH TRIAL AT THE ADVENTURER'S GUILD
+Dialogue: 0,0:08:13.29,0:08:16.79,Caption-3,,0,0,0,,{\pos(102.4,338.4)}{\an7}Name: Tempered Steel Longsword
+Dialogue: 0,0:08:13.29,0:08:16.79,Caption-3,,0,0,0,,{\pos(102.4,410.4)}{\an7}Attack:
+Dialogue: 0,0:08:13.29,0:08:16.79,Caption-3,,0,0,0,,{\pos(102.4,460.8)}{\an7}MP:
+Dialogue: 0,0:08:13.29,0:08:16.79,Caption-3,,0,0,0,,{\pos(102.4,511.2)}{\an7}HP:
+Dialogue: 0,0:08:13.30,0:08:16.79,Caption-3,,0,0,0,,{\pos(102.4,561.6)}{\an7}Mana Conductivity:
+Dialogue: 0,0:08:19.33,0:08:21.29,Caption-3,,0,0,0,,{\pos(102.4,237.6)}{\an7}Name: Mythril Greatsword
+Dialogue: 0,0:08:19.33,0:08:21.29,Caption-3,,0,0,0,,{\pos(102.4,295.2)}{\an7}Attack:
+Dialogue: 0,0:08:19.33,0:08:21.29,Caption-3,,0,0,0,,{\pos(140.8,345.6)}{\an7}MP:
+Dialogue: 0,0:08:19.34,0:08:21.29,Caption-3,,0,0,0,,{\pos(128,403.2)}{\an7}HP:
+Dialogue: 0,0:08:19.34,0:08:21.29,Caption-3,,0,0,0,,{\pos(102.4,446.4)}{\an7}Mana Conductivity:
+Dialogue: 0,0:08:19.34,0:08:21.29,Caption-3,,0,0,0,,{\pos(102.4,496.8)}{\an7}Skills: None
+Dialogue: 0,0:08:23.96,0:08:25.79,Caption-4,,0,0,0,,{\pos(806.4,324)}{\an7}Attack
+Dialogue: 0,0:08:25.79,0:08:28.29,Caption-4,,0,0,0,,{\pos(755.2,468)}{\an7}Attack
+Dialogue: 0,0:08:55.83,0:08:58.33,Caption-5,,0,0,0,,{\pos(486.4,532.8)}{\an7}ADVENTURER'S GUILD
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(102.4,57.6)}{\an7}Skills: Intimidate 4, Transport 3,
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(140.8,115.2)}{\an7}Incresed Recovery Speed 5
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(102.4,151.2)}{\an7}Increased Health Regen 4, Instruction 4,
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(166.4,194.4)}{\an7}Regen 5, Blink 6, Earth Magic 2,
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(102.4,244.8)}{\an7}Throwing Weapons 4, Poison Resistance 7, Woodcutting 3,
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(140.8,288)}{\an7}Axe Arts 6, Axe Mastery 7, Roar 3,
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(166.4,331.2)}{\an7}Revive, Spirit Manipulation, Muscles of Steel,
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(179.2,374.4)}{\an7}Auto Health Regen, Strength Up 1
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(102.4,417.6)}{\an7}Equipment: Blacksteel Battleaxe, Blacksteel Tortoise Armor,
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(115.2,460.8)}{\an7}Sabre-Tooth Mantle, Stone Dragon Boots,
+Dialogue: 0,0:11:00.38,0:11:05.54,Caption-6,,0,0,0,,{\pos(179.2,504)}{\an7}Armband of Sacrifice
+Dialogue: 0,0:11:00.88,0:11:05.54,Caption-6,,0,0,0,,{\pos(896,295.2)}{\an7}Name: Donadrond
+Dialogue: 0,0:11:00.88,0:11:05.54,Caption-6,,0,0,0,,{\pos(934.4,360)}{\an7}Age: 46
+Dialogue: 0,0:11:00.88,0:11:05.54,Caption-6,,0,0,0,,{\pos(921.6,403.2)}{\an7}Race: Ogre
+Dialogue: 0,0:11:00.88,0:11:05.54,Caption-6,,0,0,0,,{\pos(921.6,453.6)}{\an7}Class: Warrior
+Dialogue: 0,0:11:00.88,0:11:05.54,Caption-6,,0,0,0,,{\pos(908.8,547.2)}{\an7}VIT:
+Dialogue: 0,0:11:00.88,0:11:05.54,Caption-6,,0,0,0,,{\pos(1036.8,547.2)}{\an7}INT:
+Dialogue: 0,0:11:05.54,0:11:07.75,Caption-3,,0,0,0,,{\pos(140.8,108)}{\an7}Skills:            Intimidate 4, Transport 3,
+Dialogue: 0,0:11:05.54,0:11:07.75,Caption-3,,0,0,0,,{\pos(332.8,223.2)}{\an7}Incresed Recovery Speed 5
+Dialogue: 0,0:11:05.54,0:11:07.75,Caption-3,,0,0,0,,{\pos(294.4,324)}{\an7}Increased Health Regen 4, Instruction 4,
+Dialogue: 0,0:11:05.54,0:11:07.75,Caption-3,,0,0,0,,{\pos(358.4,424.8)}{\an7}Regen 5,           Blink 6,          Earth Magic 2,
+Dialogue: 0,0:11:05.54,0:11:07.75,Caption-3,,0,0,0,,{\pos(256,525.6)}{\an7}Throwing Weapons 4, Poison Resistance 7, Woodcutting 3,
+Dialogue: 0,0:11:07.75,0:11:09.04,Caption-3,,0,0,0,,{\pos(371.2,108)}{\an7}Axe Arts 6, Axe Mastery 7, Roar 3,
+Dialogue: 0,0:11:07.75,0:11:09.04,Caption-3,,0,0,0,,{\pos(396.8,259.2)}{\an7}Revive,            Spirit Manipulation,       Muscles of Steel,
+Dialogue: 0,0:11:07.75,0:11:09.04,Caption-3,,0,0,0,,{\pos(384,367.2)}{\an7}Auto Health Regen,                   Strength Up 1
+Dialogue: 0,0:11:07.75,0:11:09.04,Caption-3,,0,0,0,,{\pos(102.4,439.2)}{\an7}Equipment:               Blacksteel Battleaxe,                   Blacksteel Tortoise Armor,
+Dialogue: 0,0:11:07.75,0:11:09.04,Caption-3,,0,0,0,,{\pos(422.4,496.8)}{\an7}Sabre-Tooth Mantle, Stone Dragon Boots,
+Dialogue: 0,0:11:07.75,0:11:09.04,Caption-3,,0,0,0,,{\pos(332.8,547.2)}{\an7}Armband of Sacrifice
+Dialogue: 0,0:11:09.04,0:11:13.04,Caption-3,,0,0,0,,{\pos(883.2,86.4)}{\an7}Name: Blacksteel Battleaxe
+Dialogue: 0,0:11:09.04,0:11:13.04,Caption-3,,0,0,0,,{\pos(883.2,144)}{\an7}Attack:
+Dialogue: 0,0:11:09.04,0:11:13.04,Caption-3,,0,0,0,,{\pos(908.8,194.4)}{\an7}MP:
+Dialogue: 0,0:11:09.04,0:11:13.04,Caption-3,,0,0,0,,{\pos(921.6,244.8)}{\an7}HP:
+Dialogue: 0,0:11:09.04,0:11:13.04,Caption-3,,0,0,0,,{\pos(857.6,280.8)}{\an7}Mana Conductivity:
+Dialogue: 0,0:14:26.13,0:14:30.13,Caption-5,,0,0,0,,{\pos(486.4,540)}{\an7}GUILD MASTER: KLIMT
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(102.4,244.8)}{\an7}Skills: Swiftcast 7, Identify 5, Boy Mastery 3,
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(204.8,302.4)}{\an7}Gathering 5, Wood Magic 7,
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(204.8,338.4)}{\an7}Spirit Magic 8, Greater Earth Magic 6,
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(128,381.6)}{\an7}Alchemy 5, Earth Magic 10, Poison Resistance 3,
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(179.2,417.6)}{\an7}Paralysis Resistance 4, Water Magic 5,
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(166.4,446.4)}{\an7}Herbology 7, Cooking 4, Mana Manipulation
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(192,482.4)}{\an7}Child of the forest
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(102.4,518.4)}{\an7}Unique Skill: Favor of the Spirits
+Dialogue: 0,0:15:32.13,0:15:37.88,Caption-7,,0,0,0,,{\pos(102.4,547.2)}{\an7}Titles:          Guild Master, Guardian of Alessa
+Dialogue: 0,0:15:32.33,0:15:37.88,Caption-7,,0,0,0,,{\pos(960,172.8)}{\an7}Name: Klimt
+Dialogue: 0,0:15:32.33,0:15:37.88,Caption-7,,0,0,0,,{\pos(972.8,230.4)}{\an7}Age: 136
+Dialogue: 0,0:15:32.34,0:15:37.88,Caption-7,,0,0,0,,{\pos(972.8,273.6)}{\an7}Race: Wood Elf
+Dialogue: 0,0:15:32.34,0:15:37.88,Caption-7,,0,0,0,,{\pos(960,324)}{\an7}Class: Spirit Sorcerer
+Dialogue: 0,0:15:32.34,0:15:37.88,Caption-7,,0,0,0,,{\pos(960,417.6)}{\an7}VIT:
+Dialogue: 0,0:15:32.34,0:15:37.88,Caption-7,,0,0,0,,{\pos(1088,417.6)}{\an7}INT:
+Dialogue: 0,0:15:32.34,0:15:37.88,Caption-7,,0,0,0,,{\pos(947.2,453.6)}{\an7}STR:
+Dialogue: 0,0:15:32.34,0:15:37.88,Caption-7,,0,0,0,,{\pos(1075.2,453.6)}{\an7}AGI:
+Dialogue: 0,0:23:35.88,0:23:41.42,Caption-8,,0,0,0,,{\pos(563.2,165.6)}{\an7}NEXT EPISODE:
+Dialogue: 0,0:23:35.88,0:23:41.42,Caption-8,,0,0,0,,{\pos(448,331.2)}{\an7}THE GRIZZLED OLD BLACKSMITH
