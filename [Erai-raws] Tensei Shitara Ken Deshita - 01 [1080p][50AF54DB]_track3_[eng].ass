@@ -4,37 +4,36 @@
 Title: [Erai-raws]
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 3840
+PlayResY: 2160
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: D:/Torrents/[Erai-raws] Tensei Shitara Ken Deshita - 01 [1080p][50AF54DB].mkv
-Video File: D:/Torrents/[Erai-raws] Tensei Shitara Ken Deshita - 01 [1080p][50AF54DB].mkv
+Audio File: D:/MKV/Tensei shitara Ken Deshita/Tensei shitara Ken Deshita Subtitle/[Isekai] Tensei shitara Ken Deshita - 01v2 (2160p WEB H.264 B-Global).mkv
+Video File: D:/MKV/Tensei shitara Ken Deshita/Tensei shitara Ken Deshita Subtitle/[Isekai] Tensei shitara Ken Deshita - 01v2 (2160p WEB H.264 B-Global).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 92
-Active Line: 97
-Video Position: 9478
+Video Zoom Percent: 0.220000
+Scroll Position: 348
+Active Line: 374
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Subtitle,Bahnschrift,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,90,90,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption,Staccato222 BT,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-2,Times New Roman,72,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-3,Times New Roman,50,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-4,Times New Roman,60,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-5,Times New Roman,50,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-6,Times New Roman,38,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-7,Times New Roman,72,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-8,Times New Roman,38,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-9,Times New Roman,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Caption-10,Staccato222 BT,50,&H00B6AFAC,&H00B6AFAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,30,30,30,1
-Style: Thought Subtitles,Bahnschrift,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,90,90,0,0,1,2,3,2,30,30,30,1
+Style: Default,Arial,144,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Subtitle,Bahnschrift,144,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,90,90,0,0,1,3,6,2,60,60,60,1
+Style: Caption,Staccato222 BT,100,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-2,Times New Roman,144,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-3,Times New Roman,100,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-4,Times New Roman,120,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-5,Times New Roman,100,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-6,Times New Roman,76,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-7,Times New Roman,144,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-8,Times New Roman,76,&H00759BAC,&H00759BAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-9,Times New Roman,144,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Caption-10,Staccato222 BT,100,&H00B6AFAC,&H00B6AFAC,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,60,60,60,1
+Style: Thought Subtitles,Bahnschrift,144,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,90,90,0,0,1,4,6,2,60,60,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -404,257 +403,257 @@ Dialogue: 0,0:23:11.29,0:23:14.46,Subtitle,,0,0,0,,I'm gonna get strong… stron
 Dialogue: 0,0:23:15.13,0:23:18.46,Subtitle,,0,0,0,,Everyone's gonna want a piece of her\Nonce she grows up...
 Dialogue: 0,0:23:18.63,0:23:20.75,Subtitle,,0,0,0,,Wait no! Not on my watch!
 Dialogue: 0,0:23:21.08,0:23:25.88,Subtitle,,0,0,0,,Anyone who gets close to you\Nis gonna get slice and diced by yours truly!
-Dialogue: 0,0:00:38.75,0:00:42.54,Caption,,0,0,0,,{\pos(980.8,746)}{\an7}EPISODE 1
-Dialogue: 0,0:00:38.75,0:00:42.54,Caption,,0,0,0,,{\pos(976,810)}{\an7}A SWORD WHO MET A FLUFFY EARS GIRL
-Dialogue: 0,0:01:59.21,0:02:00.38,Caption-2,,0,0,0,,{\pos(710.4,140.4)}{\an7}Name:             Unknown
-Dialogue: 0,0:01:59.21,0:02:00.38,Caption-3,,0,0,0,,{\pos(595.2,399.6)}{\an7}Registered Wielder:
-Dialogue: 0,0:01:59.21,0:02:00.38,Caption-3,,0,0,0,,{\pos(940.8,496.8)}{\an7}None
-Dialogue: 0,0:01:59.21,0:02:00.38,Caption-3,,0,0,0,,{\pos(633.6,615.6)}{\an7}Race:
-Dialogue: 0,0:01:59.21,0:02:00.38,Caption-3,,0,0,0,,{\pos(825.6,712.8)}{\an7}Intelligent Weapon
-Dialogue: 0,0:02:00.38,0:02:02.83,Caption-4,,0,0,0,,{\pos(153.6,248.4)}{\an7}Race:
-Dialogue: 0,0:02:00.38,0:02:02.83,Caption-4,,0,0,0,,{\pos(768,486)}{\an7}Intelligent Weapon
-Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(1193.6,44.4)}{\an7}AP:
-Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(1192,136.4)}{\an7}MP Capacity:
-Dialogue: 0,0:02:05.33,0:02:10.29,Caption-5,,0,0,0,,{\pos(1191.2,235.6)}{\an7}Durability:
-Dialogue: 0,0:02:05.33,0:02:10.29,Caption-5,,0,0,0,,{\pos(153.6,280.8)}{\an7}Skills: Appraisal 6, Regenerate
-Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(345.6,399.6)}{\an7}Telekinesis, Telepathy
-Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(345.6,486)}{\an7}Wielder Status Buff 1
-Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(345.6,583.2)}{\an7}Wielder Recovery Buff 1
-Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(364.8,658.8)}{\an7}Skill Sharing, Mage
-Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(1248,604.8)}{\an7}Evolution Rank: 1
-Dialogue: 0,0:02:10.63,0:02:13.63,Caption-4,,0,0,0,,{\pos(211.2,237.6)}{\an7}Skills:         Appraisal 6, Weilder Status Buff 1
-Dialogue: 0,0:02:10.63,0:02:13.63,Caption-4,,0,0,0,,{\pos(480,388.8)}{\an7}Regenerate, Wielder Recovery Buff 1
-Dialogue: 0,0:02:10.63,0:02:13.63,Caption-4,,0,0,0,,{\pos(480,540)}{\an7}Telekinesis, Skill Sharing,
-Dialogue: 0,0:02:10.63,0:02:13.63,Caption-4,,0,0,0,,{\pos(480,680.4)}{\an7}Telepathy Mage
-Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(206.4,486.8)}{\an7}Name: Goblin Leader
-Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(220.4,554.4)}{\an7}Race: Mali-human
-Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(220.4,704.8)}{\an7}VIT:
-Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(436.8,704.8)}{\an7}MP:
-Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(216.4,777.2)}{\an7}STR:
-Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(430.8,779.2)}{\an7}AGI:
-Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(217.6,850.4)}{\an7}Skills: Sword Arts 1, Survival 1,
-Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(344,914)}{\an7}Disassembly 2, Command 1,
-Dialogue: 0,0:03:21.38,0:03:26.17,Caption-3,,0,0,0,,{\pos(1218,16.4)}{\an7}AP:
-Dialogue: 0,0:03:21.38,0:03:26.17,Caption-3,,0,0,0,,{\pos(1220.4,112.8)}{\an7}MP Capacity:
-Dialogue: 0,0:03:21.38,0:03:26.17,Caption-3,,0,0,0,,{\pos(1219.6,211.6)}{\an7}Durability:
-Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(153.6,248.4)}{\an7}Skills:           Identify 6, Regenerate
-Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(345.6,367.2)}{\an7}Telekinesis, Telepathy
-Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(364.8,464.4)}{\an7}Wielder Status Buff 1
-Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(364.8,561.6)}{\an7}Wielder Recovery Buff 1
-Dialogue: 0,0:03:21.38,0:03:26.17,Caption-3,,0,0,0,,{\pos(1222.8,622)}{\an7}Self-evolution Rank:
-Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(369.6,650.8)}{\an7}Skill Sharing, Mage
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(672,226.8)}{\an7}Equipped Skills
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(672,313.2)}{\an7}None
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(748.8,399.6)}{\an7}Skill Bank
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(691.2,475.2)}{\an7}Digging 1    Disassembly 1
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(644,569.2)}{\an7}Sword Arts 1 Club Arts 1
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(672,691.2)}{\an7}Command 1     Survival 1
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1271.6,725.6)}{\an7}Mana Crystals:
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1350.8,846.4)}{\an7}Memory Slots:
-Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(729.6,810)}{\an7} Kobold Killer
-Dialogue: 0,0:03:26.17,0:03:31.58,Caption-7,,0,0,0,,{\pos(368.8,168.8)}{\an7}Mana Crystals:
-Dialogue: 0,0:03:26.17,0:03:31.58,Caption-7,,0,0,0,,{\pos(787.2,604.8)}{\an7}Memory Slots:
-Dialogue: 0,0:03:35.58,0:03:40.58,Caption-3,,0,0,0,,{\pos(748.8,151.2)}{\an7}Skill Bank
-Dialogue: 0,0:03:35.58,0:03:40.58,Caption-3,,0,0,0,,{\pos(652.8,302.4)}{\an7}Digging 1
-Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(1017.6,291.6)}{\an7}Disassembly 1
-Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(588,453.6)}{\an7}Sword Arts 1
-Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(1041.6,452.4)}{\an7}Club Arts 1
-Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(614.4,648)}{\an7}Command 1,
-Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(1056,648)}{\an7}Survival 1,
-Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(756.4,820.4)}{\an7}Kobold Killer
-Dialogue: 0,0:03:56.71,0:03:58.58,Caption-2,,0,0,0,,{\pos(710.4,86.4)}{\an7}Equipped Skills
-Dialogue: 0,0:03:56.71,0:03:58.58,Caption-2,,0,0,0,,{\pos(1248,378)}{\an7}None
-Dialogue: 0,0:03:56.71,0:03:58.58,Caption-2,,0,0,0,,{\pos(614.4,702)}{\an7}Skill Bank
-Dialogue: 0,0:03:58.71,0:04:02.33,Caption-4,,0,0,0,,{\pos(230.4,118.8)}{\an7}Equipped Skills
-Dialogue: 0,0:03:58.71,0:04:02.33,Caption-4,,0,0,0,,{\pos(197.6,209.6)}{\an7}Digging 1
-Dialogue: 0,0:03:59.00,0:04:02.33,Caption-4,,0,0,0,,{\pos(811.6,200.8)}{\an7}Disassembly 1
-Dialogue: 0,0:03:59.25,0:04:02.33,Caption-4,,0,0,0,,{\pos(1391.6,204.8)}{\an7}Sword Arts 1
-Dialogue: 0,0:03:59.54,0:04:02.33,Caption-4,,0,0,0,,{\pos(197.2,491.6)}{\an7}Club Arts 1
-Dialogue: 0,0:03:59.79,0:04:02.33,Caption-4,,0,0,0,,{\pos(847.2,493.6)}{\an7}Command 1
-Dialogue: 0,0:04:00.04,0:04:02.33,Caption-4,,0,0,0,,{\pos(1506,496)}{\an7}Survival 1
-Dialogue: 0,0:04:00.42,0:04:02.33,Caption-4,,0,0,0,,{\pos(364.8,777.6)}{\an7}Kobold Killer
-Dialogue: 0,0:04:17.88,0:04:20.88,Caption-2,,0,0,0,,{\pos(576,226.8)}{\an7}Skill Bank
-Dialogue: 0,0:04:17.88,0:04:20.88,Caption-2,,0,0,0,,{\pos(480,540)}{\an7}Vigilance
-Dialogue: 0,0:04:17.88,0:04:20.88,Caption-2,,0,0,0,,{\pos(1132.8,529.2)}{\an7}Poison Resistance
-Dialogue: 0,0:04:20.88,0:04:25.00,Caption-4,,0,0,0,,{\pos(468.8,98)}{\an7}Mana Crystals:
-Dialogue: 0,0:04:20.88,0:04:25.00,Caption-4,,0,0,0,,{\pos(863.6,507.6)}{\an7}Memory Slots:
-Dialogue: 0,0:04:27.21,0:04:29.50,Caption-3,,0,0,0,,{\pos(1267.2,86.4)}{\an7}UNKNOWN used a Skill:
-Dialogue: 0,0:04:27.21,0:04:29.50,Caption-3,,0,0,0,,{\pos(1401.6,183.6)}{\an7}Digging
-Dialogue: 0,0:05:32.33,0:05:34.33,Caption-8,,0,0,0,,{\pos(96.8,147.2)}{\an7}Name: Air Floater
-Dialogue: 0,0:05:32.33,0:05:34.33,Caption-8,,0,0,0,,{\pos(71.6,214.8)}{\an7}Race: Monster - Mali-plant
-Dialogue: 0,0:05:39.83,0:05:43.17,Caption-2,,0,0,0,,{\pos(208,348)}MP Capacity
-Dialogue: 0,0:05:51.42,0:05:55.58,Caption-3,,0,0,0,,{\pos(614.4,302.4)}{\an7}Skills Obtained:
-Dialogue: 0,0:05:51.42,0:05:55.58,Caption-3,,0,0,0,,{\pos(614.4,421.2)}{\an7}Mana Drain 1
-Dialogue: 0,0:05:51.42,0:05:55.58,Caption-3,,0,0,0,,{\pos(614.4,550.8)}{\an7}Hawkeye
-Dialogue: 0,0:05:51.42,0:05:55.58,Caption-3,,0,0,0,,{\pos(614.4,669.6)}{\an7}Float
-Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(198.4,134.8)}{\an7}AP:
-Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(184.8,247.2)}{\an7}MP Capacity:
-Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(182.8,368)}{\an7}Durability:
-Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(1126.4,492.8)}{\an7}Self-evolution Rank:
-Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(1296.8,623.2)}{\an7}Mana Crystals:
-Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(1415.2,757.6)}{\an7}Memory Slots:
-Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(1461.6,866.8)}{\an7}Points:
-Dialogue: 0,0:06:31.29,0:06:37.79,Caption-3,,0,0,0,,{\pos(364.8,151.2)}{\an7}Bonus Point Allocation
-Dialogue: 0,0:06:31.29,0:06:37.79,Caption-3,,0,0,0,,{\pos(367.6,212)}{\an7}Improved AP 1
-Dialogue: 0,0:06:31.29,0:06:37.79,Caption-3,,0,0,0,,{\pos(989.2,210)}{\an7}Improved Durability 1
-Dialogue: 0,0:06:31.29,0:06:37.79,Caption-3,,0,0,0,,{\pos(364.8,367.2)}{\an7}Improved Telekinesis 1
-Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(980.4,361.2)}{\an7}Improved Telepathy 1
-Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(368,520.4)}{\an7}Improved MP Capacity 1
-Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(977.6,519.2)}{\an7}Expanded Memory Slots 1
-Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(372.8,679.2)}{\an7}Increase Skill Level
-Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(364.8,810)}{\an7}Identify Creature
-Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(748.8,810)}{\an7}Identify Plant
-Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(1075.2,810)}{\an7}Identify Mineral
-Dialogue: 0,0:06:43.05,0:06:57.96,Caption-3,,0,0,0,,{\pos(190.4,126.8)}{\an7}AP:
-Dialogue: 0,0:06:43.05,0:06:57.96,Caption-3,,0,0,0,,{\pos(186.8,248)}{\an7}MP Capacity:
-Dialogue: 0,0:06:43.04,0:06:57.96,Caption-3,,0,0,0,,{\pos(189.6,378.8)}{\an7}Durability:
-Dialogue: 0,0:06:43.04,0:06:57.96,Caption-3,,0,0,0,,{\pos(1189.2,510.4)}{\an7}Self-evolution Rank:
-Dialogue: 0,0:06:43.04,0:06:57.96,Caption-3,,0,0,0,,{\pos(1324.8,648)}{\an7}Mana Crystals:
-Dialogue: 0,0:06:43.04,0:06:57.96,Caption-3,,0,0,0,,{\pos(1439.2,757.2)}{\an7}Memory Slots:
-Dialogue: 0,0:06:43.05,0:06:57.96,Caption-3,,0,0,0,,{\pos(1516.8,853.2)}{\an7}Points:
-Dialogue: 0,0:07:36.50,0:07:37.63,Caption-8,,0,0,0,,{\pos(806.4,399.6)}{\an7}UNKNOWN used a Skill:
-Dialogue: 0,0:07:36.50,0:07:37.63,Caption-8,,0,0,0,,{\pos(902.4,486)}{\an7}Stealth.
-Dialogue: 0,0:07:38.54,0:07:39.00,Caption-8,,0,0,0,,{\pos(806.4,399.6)}{\an7}UNKNOWN used a Skill:
-Dialogue: 0,0:07:38.54,0:07:39.00,Caption-8,,0,0,0,,{\pos(902.4,486)}{\an7}Stealth.
-Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx85\fscy85\pos(172.8,94.4)}{\an7}Name: Goblin King
-Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(172.8,151.2)}{\an7}Race: Mali-human
-Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(186.14,252.67)}{\an7}VIT:
-Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(335.74,251.34)}{\an7}MP:
-Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(473.33,250)}{\an7}STR:
-Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(599.73,247.33)}{\an7}Astuteness:
-Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(176.27,301.07)}{\an7}Skills: Intimidation 2, Swordsmanship 2, Sword Arts 4, command 4
-Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(294.93,348.53)}{\an7}Morale Boost 3, Shield Arts 2,
-Dialogue: 0,0:07:39.47,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(556.27,349.07)}{\an7}Provoke 1, Throwing Weapons 1
-Dialogue: 0,0:07:39.47,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(285.34,402.67)}{\an7}Ambition
-Dialogue: 0,0:07:39.47,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(374.4,403.2)}{\an7}Willpower Manipulation
-Dialogue: 0,0:07:58.54,0:08:00.79,Caption-3,,0,0,0,,{\pos(83.47,26.8)}{\an7}Name: Goblin Mage
-Dialogue: 0,0:07:58.54,0:08:00.79,Caption-3,,0,0,0,,{\pos(90.93,111.07)}{\an7}Race: Mali-human
-Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(133.6,498.8)}{\an7}VIT:
-Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(359.2,494.8)}{\an7}MP Capacity:
-Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(136.27,587.47)}{\an7}STR:
-Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(367.87,578.67)}{\an7}Astuteness
-Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(1491.47,684.67)}{\an7}Fire Magic 3,
-Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(1468.8,770.93)}{\an7}Improved MP 1,
-Dialogue: 0,0:07:59.01,0:08:00.79,Caption-3,,0,0,0,,{\pos(1437.87,858.13)}{\an7}Mana Manipulation
-Dialogue: 0,0:07:59.01,0:08:00.79,Caption-3,,0,0,0,,{\pos(1248,496.8)}{\an7}Skills: Minerology 1, Command 1,
-Dialogue: 0,0:07:59.01,0:08:00.79,Caption-3,,0,0,0,,{\pos(1292.53,596.94)}{\an7}Staff Arts 2, Battlestaff Arts 1,
-Dialogue: 0,0:08:09.75,0:08:12.33,Caption-3,,0,0,0,,{\pos(230.4,97.2)}{\an7}Skills Obtained:
-Dialogue: 0,0:08:09.96,0:08:12.33,Caption-3,,0,0,0,,{\pos(166.67,496.8)}{\an7}Improved MP 1                                                                                                               
-Dialogue: 0,0:08:09.96,0:08:12.33,Caption-3,,0,0,0,,{\pos(169.34,687.07)}{\an7}Battlestaff Arts 1                                                                                                          
-Dialogue: 0,0:08:10.33,0:08:12.33,Caption-3,,0,0,0,,{\pos(1447.73,145.73)}{\an7}Fire Magic 3
-Dialogue: 0,0:08:10.54,0:08:12.33,Caption-3,,0,0,0,,{\pos(1368.8,334.93)}{\an7}Mana Manipulation
-Dialogue: 0,0:08:10.75,0:08:12.33,Caption-3,,0,0,0,,{\pos(1438.4,514.4)}{\an7}Minerology 1
-Dialogue: 0,0:08:10.92,0:08:12.33,Caption-3,,0,0,0,,{\pos(1450.4,702)}{\an7}Command 1
-Dialogue: 0,0:08:11.25,0:08:12.33,Caption-3,,0,0,0,,{\pos(1444.53,875.47)}{\an7}Staff Arts 2
-Dialogue: 0,0:08:16.83,0:08:25.63,Caption-2,,0,0,0,,{\fax0.5\frz341.1\pos(883.2,48.4)}{\an7}Sword Arts 3
-Dialogue: 0,0:09:58.33,0:09:59.79,Caption-3,,0,0,0,,{\pos(1228.8,702)}{\an7}Name: Lesser Wyvern
-Dialogue: 0,0:09:58.33,0:09:59.79,Caption-3,,0,0,0,,{\pos(1147.2,786.4)}{\an7}Race: Monster, Lesser Sub-Dragon
-Dialogue: 0,0:10:12.33,0:10:14.38,Caption-3,,0,0,0,,{\pos(211.2,140.4)}{\an7}Skills:  Intimidation 2, Stealth 2
-Dialogue: 0,0:10:12.33,0:10:14.38,Caption-3,,0,0,0,,{\pos(364.8,226.8)}{\an7}Fire Resistance 3, Control Air 3
-Dialogue: 0,0:10:12.34,0:10:14.38,Caption-3,,0,0,0,,{\pos(288,313.2)}{\an7}Poison Resistance 3, Hardened Scales
-Dialogue: 0,0:10:12.34,0:10:14.38,Caption-3,,0,0,0,,{\pos(268.8,399.6)}{\an7}Enhanced Olfaction, Enhanced Drain,
-Dialogue: 0,0:10:12.34,0:10:14.38,Caption-3,,0,0,0,,{\pos(345.6,486)}{\an7}Enhanced Sight
-Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(1248,86.4)}{\an7}Name: Gluttonous Slimelord
-Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(1248,162)}{\an7}Race: Monster, Slime
-Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(1238,282)}{\an7}VIT:
-Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(1432,280)}{\an7}MP:
-Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(1240,344)}{\an7}STR:
-Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(1422,340.8)}{\an7}Astuteness:
-Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(153.6,324)}{\an7}Skills: Evasion 3, Enhanced Evasion 4, Mimicry 6,
-Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(288,399.6)}{\an7}Drain 8, Harden 8, Instant Regen 7,
-Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(249.6,475.2)}{\an7}Status Ailment Resistance 7, Jump 5,
-Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(172.8,529.2)}{\an7}Soften 8, Slime Mastery 7, Slime Arts 8,
-Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(230.4,604.8)}{\an7}Physical Resistance 7, Predation 9,
-Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(249.6,680.4)}{\an7}Mana Sense 7, Pocket Dimension,
-Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(211.2,734.4)}{\an7}Spirit Manipulation, Enhanced Drain,
-Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(153.6,799.2)}{\an7}Acid Slime, Enhanced Digestion, Mana Manipulation
-Dialogue: 0,0:10:54.58,0:10:57.17,Caption-6,,0,0,0,,{\pos(1154.8,52.4)}{\an7}The final evolution of a Gluttonous Slime.
-Dialogue: 0,0:10:54.58,0:10:57.17,Caption-6,,0,0,0,,{\pos(1122.4,115.2)}{\an7}Consumes every living thing in its vicinity and grows
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1130.4,175.2)}{\an7}exponentially without limit.
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1124.8,227.2)}{\an7}Stores away defeated prey  in a pocket dimension
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1122,284)}{\an7}for later consumption, making it capable of some
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1121.2,339.2)}{\an7}degree of spacetime magic.
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1138.4,396)}{\an7}Some speculate it is capable of preying upon dragons
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1156,458.8)}{\an7}when there are no smaller creatures to consume.
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1177.6,520)}{\an7}Kingdoms dispatch entire squadrons
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1186.4,576.8)}{\an7}to deal with this threat.
-Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(1174.4,626.8)}{\an7}Mana Crystal location: Center of its mass.
-Dialogue: 0,0:11:37.13,0:11:42.67,Caption-3,,0,0,0,,{\pos(136.8,66.4)}{\an7}AP:
-Dialogue: 0,0:11:37.13,0:11:42.67,Caption-3,,0,0,0,,{\pos(139.2,181.2)}{\an7}MP Capacity:
-Dialogue: 0,0:11:37.13,0:11:42.67,Caption-3,,0,0,0,,{\pos(140,318.8)}{\an7}Durability:
-Dialogue: 0,0:11:37.13,0:11:39.63,Caption-3,,0,0,0,,{\pos(1155.2,624.4)}{\an7}Self-evolution Rank:
-Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(844.8,270)}{\an7}Skills Obtained:
-Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(825.6,399.6)}{\an7}Mimicry 1
-Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(825.6,529.2)}{\an7}Harden 1
-Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(825.6,637.2)}{\an7}Instant Regen 1
-Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(825.6,723.6)}{\an7}Soften 1
-Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(787.2,820.8)}{\an7}Pocket Dimension
-Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(1363.2,410.4)}{\an7}Name: Doppel Snake
-Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(1344,486)}{\an7}Race: Monster, Serpent
-Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(1304.8,604.4)}{\an7}VIT:
-Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(1316.8,678)}{\an7}MP:
-Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(1312.8,746.8)}{\an7}STR:
-Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(1308.8,818.8)}{\an7}AGI:
-Dialogue: 0,0:12:10.50,0:12:14.46,Caption-4,,0,0,0,,{\pos(787.2,118.8)}{\an7}Skills Obtained:
-Dialogue: 0,0:12:10.50,0:12:14.46,Caption-4,,0,0,0,,{\pos(806.4,345.6)}{\an7}Doppelganger
-Dialogue: 0,0:12:10.50,0:12:14.46,Caption-4,,0,0,0,,{\pos(729.6,550.8)}{\an7}Ungodly Poison Fang
-Dialogue: 0,0:12:10.50,0:12:14.46,Caption-4,,0,0,0,,{\pos(844.8,734.4)}{\an7}Split Mind
-Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(153.6,86.4)}{\an7}Name: Blast Tortoise
-Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(153.6,129.6)}{\an7}Race: Monster, Tortoise
-Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(83.6,237.6)}{\an7}VIT:
-Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(83.6,301.2)}{\an7}MP:
-Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(81.6,369.2)}{\an7}STR:
-Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(81.6,438.8)}{\an7}AGI:
-Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(1152,356.4)}{\an7}Skills: Digging 2, Stealth 4, Control Air 5,
-Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(1344,453.6)}{\an7}Pressurize Air 6, Air Bullet 7,
-Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(1228.8,529.2)}{\an7}Vigilance 2, Harden 2, Shock Resistance 4,
-Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(1209.6,604.8)}{\an7}Molting 3, Throwing 6, Poision Resistance 4
-Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(1344,680.4)}{\an7}Bite 4, Superior Olfaction,
-Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(1228.8,734.4)}{\an7}Enhanced Olfaction, Enhanced Carapace,
-Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(1228.8,777.6)}{\an7}Carapace Regeneration, Diminished Pain,
-Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(1286.4,820.8)}{\an7}Fortitude, Mana Manipulation
-Dialogue: 0,0:12:41.79,0:12:43.63,Caption-4,,0,0,0,,{\pos(192,183.6)}{\an7}Earth Magic 4
-Dialogue: 0,0:12:54.50,0:12:59.25,Caption-3,,0,0,0,,{\pos(192,86.4)}{\an7}Skills Obtained:
-Dialogue: 0,0:12:54.50,0:12:59.25,Caption-3,,0,0,0,,{\pos(192,172.8)}{\an7}Pressurize Air
-Dialogue: 0,0:12:54.50,0:12:59.25,Caption-3,,0,0,0,,{\pos(192,259.2)}{\an7}Air Bullet
-Dialogue: 0,0:13:00.00,0:13:03.75,Caption-3,,0,0,0,,{\pos(1305.6,108)}{\an7}Area 5 Western Boss:
-Dialogue: 0,0:13:00.00,0:13:03.75,Caption-3,,0,0,0,,{\pos(1324.8,216)}{\an7}Tyrant Saber-Tooth
-Dialogue: 0,0:13:19.75,0:13:22.75,Caption-2,,0,0,0,,{\pos(518.4,86.4)}{\an7}Superior Poison Fang
-Dialogue: 0,0:13:19.75,0:13:22.75,Caption-2,,0,0,0,,{\pos(518.4,604.8)}{\an7}Demonic Poison Fang
-Dialogue: 0,0:13:39.13,0:13:41.33,Caption-4,,0,0,0,,{\pos(710.4,172.8)}{\an7}Name:        Unknown
-Dialogue: 0,0:13:39.13,0:13:41.33,Caption-3,,0,0,0,,{\pos(595.2,399.6)}{\an7}Registered Wielder:
-Dialogue: 0,0:13:39.13,0:13:41.33,Caption-3,,0,0,0,,{\pos(825.6,529.2)}{\an7}None
-Dialogue: 0,0:13:39.13,0:13:41.33,Caption-3,,0,0,0,,{\pos(595.2,648)}{\an7}Race:
-Dialogue: 0,0:13:39.13,0:13:41.33,Caption-3,,0,0,0,,{\pos(691.2,734.4)}{\an7}Intelligent Weapon
-Dialogue: 0,0:13:41.33,0:13:47.29,Caption-8,,0,0,0,,{\pos(1251.6,44.4)}{\an7}AP:
-Dialogue: 0,0:13:41.33,0:13:47.29,Caption-8,,0,0,0,,{\pos(1260,128.8)}{\an7}MP Capacity:
-Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(1256.8,219.2)}{\an7}Durability:
-Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(1289.6,577.2)}{\an7}Self-evolution Rank:
-Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(1267.2,691.2)}{\an7}  Mana Crystals:
-Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(1468,813.6)}{\an7}Memory Slots:
-Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(1472,920.8)}{\an7}Points:
-Dialogue: 0,0:13:44.08,0:13:47.29,Caption-8,,0,0,0,,{\pos(153.6,313.2)}{\an7}Skills:         Identify 6,
-Dialogue: 0,0:13:44.08,0:13:47.29,Caption-8,,0,0,0,,{\pos(307.2,399.6)}{\an7}Enhanced AP 1,
-Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(307.2,475.2)}{\an7}Rapid Regenerate,
-Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(307.2,550.8)}{\an7}Wielder Healing Boost 1,
-Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(307.2,626.4)}{\an7}Wielder Stat Boost 1,                                                                                            
-Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(288,691.2)}{\an7}Telekinesis, Improved Telekinesis 1                                                          
-Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(303.2,755.6)}{\an7}Telepathy, Improved MP Capacity 1,                                                                        
-Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(337.6,828.8)}{\an7}Identify Creature, Mage
-Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(340,904)}{\an7}Expanded Memory Slots 1                                                                                                 
-Dialogue: 0,0:14:33.33,0:14:34.83,Caption-9,,0,0,0,,{\pos(806.4,302.4)}{\an7}3 days later
-Dialogue: 0,0:14:45.83,0:14:48.83,Caption-9,,0,0,0,,{\pos(787.2,302.4)}{\an7}10 days later
-Dialogue: 0,0:14:53.08,0:14:55.96,Caption-9,,0,0,0,,{\pos(787.2,302.4)}{\an7}1 month later
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1267.2,129.6)}{\an7}Name: None     Age: 12
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1248,216)}{\an7}Race: Beastman; Black Cat Tribe
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1267.2,302.4)}{\an7}Class: None
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1248,378)}{\an7}Status: Slave
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1244,538.8)}{\an7}VIT:
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1473.2,538.8)}{\an7}MP:
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1245.2,619.2)}{\an7}STR:
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1440,619.2)}{\an7}AGI:
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1201.6,703.6)}{\an7}Skills: Sword Arts 1, Darkvision,
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1382,784)}{\an7}Expert Butcher
-Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(1408,864)}{\an7}Wayfinder
-Dialogue: 0,0:23:36.54,0:23:42.04,Caption-10,,0,0,0,,{\pos(825.6,248.4)}{\an7}NEXT EPISODE:
-Dialogue: 0,0:23:36.54,0:23:42.04,Caption-10,,0,0,0,,{\pos(518.4,496.8)}{\an7}THE HELLISH TRIAL AT THE ADVENTURER'S GUILD
+Dialogue: 0,0:00:38.75,0:00:42.54,Caption,,0,0,0,,{\pos(1961.6,1492)}{\an7}EPISODE 1
+Dialogue: 0,0:00:38.75,0:00:42.54,Caption,,0,0,0,,{\pos(1952,1620)}{\an7}A SWORD WHO MET A FLUFFY EARS GIRL
+Dialogue: 0,0:01:59.21,0:02:00.38,Caption-2,,0,0,0,,{\pos(1420.8,280.8)}{\an7}Name:             Unknown
+Dialogue: 0,0:01:59.21,0:02:00.38,Caption-3,,0,0,0,,{\pos(1190.4,799.2)}{\an7}Registered Wielder:
+Dialogue: 0,0:01:59.21,0:02:00.38,Caption-3,,0,0,0,,{\pos(1881.6,993.6)}{\an7}None
+Dialogue: 0,0:01:59.21,0:02:00.38,Caption-3,,0,0,0,,{\pos(1267.2,1231.2)}{\an7}Race:
+Dialogue: 0,0:01:59.21,0:02:00.38,Caption-3,,0,0,0,,{\pos(1651.2,1425.6)}{\an7}Intelligent Weapon
+Dialogue: 0,0:02:00.38,0:02:02.83,Caption-4,,0,0,0,,{\pos(307.2,496.8)}{\an7}Race:
+Dialogue: 0,0:02:00.38,0:02:02.83,Caption-4,,0,0,0,,{\pos(1536,972)}{\an7}Intelligent Weapon
+Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(2387.2,88.8)}{\an7}AP:
+Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(2384,272.8)}{\an7}MP Capacity:
+Dialogue: 0,0:02:05.33,0:02:10.29,Caption-5,,0,0,0,,{\pos(2382.4,471.2)}{\an7}Durability:
+Dialogue: 0,0:02:05.33,0:02:10.29,Caption-5,,0,0,0,,{\pos(307.2,561.6)}{\an7}Skills: Appraisal 6, Regenerate
+Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(691.2,799.2)}{\an7}Telekinesis, Telepathy
+Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(691.2,972)}{\an7}Wielder Status Buff 1
+Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(691.2,1166.4)}{\an7}Wielder Recovery Buff 1
+Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(729.6,1317.6)}{\an7}Skill Sharing, Mage
+Dialogue: 0,0:02:05.34,0:02:10.29,Caption-5,,0,0,0,,{\pos(2496,1209.6)}{\an7}Evolution Rank: 1
+Dialogue: 0,0:02:10.63,0:02:13.63,Caption-4,,0,0,0,,{\pos(422.4,475.2)}{\an7}Skills:         Appraisal 6, Weilder Status Buff 1
+Dialogue: 0,0:02:10.63,0:02:13.63,Caption-4,,0,0,0,,{\pos(960,777.6)}{\an7}Regenerate, Wielder Recovery Buff 1
+Dialogue: 0,0:02:10.63,0:02:13.63,Caption-4,,0,0,0,,{\pos(960,1080)}{\an7}Telekinesis, Skill Sharing,
+Dialogue: 0,0:02:10.63,0:02:13.63,Caption-4,,0,0,0,,{\pos(960,1360.8)}{\an7}Telepathy Mage
+Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(412.8,973.6)}{\an7}Name: Goblin Leader
+Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(440.8,1108.8)}{\an7}Race: Mali-human
+Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(440.8,1409.6)}{\an7}VIT:
+Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(873.6,1409.6)}{\an7}MP:
+Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(432.8,1554.4)}{\an7}STR:
+Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(861.6,1558.4)}{\an7}AGI:
+Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(435.2,1700.8)}{\an7}Skills: Sword Arts 1, Survival 1,
+Dialogue: 0,0:02:24.42,0:02:27.21,Caption-6,,0,0,0,,{\pos(688,1828)}{\an7}Disassembly 2, Command 1,
+Dialogue: 0,0:03:21.38,0:03:26.17,Caption-3,,0,0,0,,{\pos(2436,32.8)}{\an7}AP:
+Dialogue: 0,0:03:21.38,0:03:26.17,Caption-3,,0,0,0,,{\pos(2440.8,225.6)}{\an7}MP Capacity:
+Dialogue: 0,0:03:21.38,0:03:26.17,Caption-3,,0,0,0,,{\pos(2439.2,423.2)}{\an7}Durability:
+Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(307.2,496.8)}{\an7}Skills:           Identify 6, Regenerate
+Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(691.2,734.4)}{\an7}Telekinesis, Telepathy
+Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(729.6,928.8)}{\an7}Wielder Status Buff 1
+Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(729.6,1123.2)}{\an7}Wielder Recovery Buff 1
+Dialogue: 0,0:03:21.38,0:03:26.17,Caption-3,,0,0,0,,{\pos(2445.6,1244)}{\an7}Self-evolution Rank:
+Dialogue: 0,0:03:21.38,0:03:22.63,Caption-3,,0,0,0,,{\pos(739.2,1301.6)}{\an7}Skill Sharing, Mage
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1344,453.6)}{\an7}Equipped Skills
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1344,626.4)}{\an7}None
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1497.6,799.2)}{\an7}Skill Bank
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1382.4,950.4)}{\an7}Digging 1    Disassembly 1
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1288,1138.4)}{\an7}Sword Arts 1 Club Arts 1
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1344,1382.4)}{\an7}Command 1     Survival 1
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(2543.2,1451.2)}{\an7}Mana Crystals:
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(2701.6,1692.8)}{\an7}Memory Slots:
+Dialogue: 0,0:03:22.63,0:03:26.17,Caption-5,,0,0,0,,{\pos(1459.2,1620)}{\an7} Kobold Killer
+Dialogue: 0,0:03:26.17,0:03:31.58,Caption-7,,0,0,0,,{\pos(737.6,337.6)}{\an7}Mana Crystals:
+Dialogue: 0,0:03:26.17,0:03:31.58,Caption-7,,0,0,0,,{\pos(1574.4,1209.6)}{\an7}Memory Slots:
+Dialogue: 0,0:03:35.58,0:03:40.58,Caption-3,,0,0,0,,{\pos(1497.6,302.4)}{\an7}Skill Bank
+Dialogue: 0,0:03:35.58,0:03:40.58,Caption-3,,0,0,0,,{\pos(1305.6,604.8)}{\an7}Digging 1
+Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(2035.2,583.2)}{\an7}Disassembly 1
+Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(1176,907.2)}{\an7}Sword Arts 1
+Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(2083.2,904.8)}{\an7}Club Arts 1
+Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(1228.8,1296)}{\an7}Command 1,
+Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(2112,1296)}{\an7}Survival 1,
+Dialogue: 0,0:03:35.59,0:03:40.58,Caption-3,,0,0,0,,{\pos(1512.8,1640.8)}{\an7}Kobold Killer
+Dialogue: 0,0:03:56.71,0:03:58.58,Caption-2,,0,0,0,,{\pos(1420.8,172.8)}{\an7}Equipped Skills
+Dialogue: 0,0:03:56.71,0:03:58.58,Caption-2,,0,0,0,,{\pos(2496,756)}{\an7}None
+Dialogue: 0,0:03:56.71,0:03:58.58,Caption-2,,0,0,0,,{\pos(1228.8,1404)}{\an7}Skill Bank
+Dialogue: 0,0:03:58.71,0:04:02.33,Caption-4,,0,0,0,,{\pos(460.8,237.6)}{\an7}Equipped Skills
+Dialogue: 0,0:03:58.71,0:04:02.33,Caption-4,,0,0,0,,{\pos(395.2,419.2)}{\an7}Digging 1
+Dialogue: 0,0:03:59.00,0:04:02.33,Caption-4,,0,0,0,,{\pos(1623.2,401.6)}{\an7}Disassembly 1
+Dialogue: 0,0:03:59.25,0:04:02.33,Caption-4,,0,0,0,,{\pos(2783.2,409.6)}{\an7}Sword Arts 1
+Dialogue: 0,0:03:59.54,0:04:02.33,Caption-4,,0,0,0,,{\pos(394.4,983.2)}{\an7}Club Arts 1
+Dialogue: 0,0:03:59.79,0:04:02.33,Caption-4,,0,0,0,,{\pos(1694.4,987.2)}{\an7}Command 1
+Dialogue: 0,0:04:00.04,0:04:02.33,Caption-4,,0,0,0,,{\pos(3012,992)}{\an7}Survival 1
+Dialogue: 0,0:04:00.42,0:04:02.33,Caption-4,,0,0,0,,{\pos(729.6,1555.2)}{\an7}Kobold Killer
+Dialogue: 0,0:04:17.88,0:04:20.88,Caption-2,,0,0,0,,{\pos(1152,453.6)}{\an7}Skill Bank
+Dialogue: 0,0:04:17.88,0:04:20.88,Caption-2,,0,0,0,,{\pos(960,1080)}{\an7}Vigilance
+Dialogue: 0,0:04:17.88,0:04:20.88,Caption-2,,0,0,0,,{\pos(2265.6,1058.4)}{\an7}Poison Resistance
+Dialogue: 0,0:04:20.88,0:04:25.00,Caption-4,,0,0,0,,{\pos(937.6,196)}{\an7}Mana Crystals:
+Dialogue: 0,0:04:20.88,0:04:25.00,Caption-4,,0,0,0,,{\pos(1727.2,1015.2)}{\an7}Memory Slots:
+Dialogue: 0,0:04:27.21,0:04:29.50,Caption-3,,0,0,0,,{\pos(2534.4,172.8)}{\an7}UNKNOWN used a Skill:
+Dialogue: 0,0:04:27.21,0:04:29.50,Caption-3,,0,0,0,,{\pos(2803.2,367.2)}{\an7}Digging
+Dialogue: 0,0:05:32.33,0:05:34.33,Caption-8,,0,0,0,,{\pos(193.6,294.4)}{\an7}Name: Air Floater
+Dialogue: 0,0:05:32.33,0:05:34.33,Caption-8,,0,0,0,,{\pos(143.2,429.6)}{\an7}Race: Monster - Mali-plant
+Dialogue: 0,0:05:39.83,0:05:43.17,Caption-2,,0,0,0,,{\pos(416,696)}MP Capacity
+Dialogue: 0,0:05:51.42,0:05:55.58,Caption-3,,0,0,0,,{\pos(1228.8,604.8)}{\an7}Skills Obtained:
+Dialogue: 0,0:05:51.42,0:05:55.58,Caption-3,,0,0,0,,{\pos(1228.8,842.4)}{\an7}Mana Drain 1
+Dialogue: 0,0:05:51.42,0:05:55.58,Caption-3,,0,0,0,,{\pos(1228.8,1101.6)}{\an7}Hawkeye
+Dialogue: 0,0:05:51.42,0:05:55.58,Caption-3,,0,0,0,,{\pos(1228.8,1339.2)}{\an7}Float
+Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(396.8,269.6)}{\an7}AP:
+Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(369.6,494.4)}{\an7}MP Capacity:
+Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(365.6,736)}{\an7}Durability:
+Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(2252.8,985.6)}{\an7}Self-evolution Rank:
+Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(2593.6,1246.4)}{\an7}Mana Crystals:
+Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(2830.4,1515.2)}{\an7}Memory Slots:
+Dialogue: 0,0:06:22.67,0:06:25.33,Caption-3,,0,0,0,,{\pos(2923.2,1733.6)}{\an7}Points:
+Dialogue: 0,0:06:31.29,0:06:37.79,Caption-3,,0,0,0,,{\pos(729.6,302.4)}{\an7}Bonus Point Allocation
+Dialogue: 0,0:06:31.29,0:06:37.79,Caption-3,,0,0,0,,{\pos(735.2,424)}{\an7}Improved AP 1
+Dialogue: 0,0:06:31.29,0:06:37.79,Caption-3,,0,0,0,,{\pos(1978.4,420)}{\an7}Improved Durability 1
+Dialogue: 0,0:06:31.29,0:06:37.79,Caption-3,,0,0,0,,{\pos(729.6,734.4)}{\an7}Improved Telekinesis 1
+Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(1960.8,722.4)}{\an7}Improved Telepathy 1
+Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(736,1040.8)}{\an7}Improved MP Capacity 1
+Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(1955.2,1038.4)}{\an7}Expanded Memory Slots 1
+Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(745.6,1358.4)}{\an7}Increase Skill Level
+Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(729.6,1620)}{\an7}Identify Creature
+Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(1497.6,1620)}{\an7}Identify Plant
+Dialogue: 0,0:06:31.30,0:06:37.79,Caption-3,,0,0,0,,{\pos(2150.4,1620)}{\an7}Identify Mineral
+Dialogue: 0,0:06:43.05,0:06:57.96,Caption-3,,0,0,0,,{\pos(380.8,253.6)}{\an7}AP:
+Dialogue: 0,0:06:43.05,0:06:57.96,Caption-3,,0,0,0,,{\pos(373.6,496)}{\an7}MP Capacity:
+Dialogue: 0,0:06:43.04,0:06:57.96,Caption-3,,0,0,0,,{\pos(379.2,757.6)}{\an7}Durability:
+Dialogue: 0,0:06:43.04,0:06:57.96,Caption-3,,0,0,0,,{\pos(2378.4,1020.8)}{\an7}Self-evolution Rank:
+Dialogue: 0,0:06:43.04,0:06:57.96,Caption-3,,0,0,0,,{\pos(2649.6,1296)}{\an7}Mana Crystals:
+Dialogue: 0,0:06:43.04,0:06:57.96,Caption-3,,0,0,0,,{\pos(2878.4,1514.4)}{\an7}Memory Slots:
+Dialogue: 0,0:06:43.05,0:06:57.96,Caption-3,,0,0,0,,{\pos(3033.6,1706.4)}{\an7}Points:
+Dialogue: 0,0:07:36.50,0:07:37.63,Caption-8,,0,0,0,,{\pos(1612.8,799.2)}{\an7}UNKNOWN used a Skill:
+Dialogue: 0,0:07:36.50,0:07:37.63,Caption-8,,0,0,0,,{\pos(1804.8,972)}{\an7}Stealth.
+Dialogue: 0,0:07:38.54,0:07:39.00,Caption-8,,0,0,0,,{\pos(1612.8,799.2)}{\an7}UNKNOWN used a Skill:
+Dialogue: 0,0:07:38.54,0:07:39.00,Caption-8,,0,0,0,,{\pos(1804.8,972)}{\an7}Stealth.
+Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx85\fscy85\pos(345.6,188.8)}{\an7}Name: Goblin King
+Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(345.6,302.4)}{\an7}Race: Mali-human
+Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(372.28,505.34)}{\an7}VIT:
+Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(671.48,502.68)}{\an7}MP:
+Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(946.66,500)}{\an7}STR:
+Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(1199.46,494.66)}{\an7}Astuteness:
+Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(352.54,602.14)}{\an7}Skills: Intimidation 2, Swordsmanship 2, Sword Arts 4, command 4
+Dialogue: 0,0:07:39.46,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(589.86,697.06)}{\an7}Morale Boost 3, Shield Arts 2,
+Dialogue: 0,0:07:39.47,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(1112.54,698.14)}{\an7}Provoke 1, Throwing Weapons 1
+Dialogue: 0,0:07:39.47,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(570.68,805.34)}{\an7}Ambition
+Dialogue: 0,0:07:39.47,0:07:42.00,Caption-8,,0,0,0,,{\fscx57\fscy57\pos(748.8,806.4)}{\an7}Willpower Manipulation
+Dialogue: 0,0:07:58.54,0:08:00.79,Caption-3,,0,0,0,,{\pos(166.94,53.6)}{\an7}Name: Goblin Mage
+Dialogue: 0,0:07:58.54,0:08:00.79,Caption-3,,0,0,0,,{\pos(181.86,222.14)}{\an7}Race: Mali-human
+Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(267.2,997.6)}{\an7}VIT:
+Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(718.4,989.6)}{\an7}MP Capacity:
+Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(272.54,1174.94)}{\an7}STR:
+Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(735.74,1157.34)}{\an7}Astuteness
+Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(2982.94,1369.34)}{\an7}Fire Magic 3,
+Dialogue: 0,0:07:59.00,0:08:00.79,Caption-3,,0,0,0,,{\pos(2937.6,1541.86)}{\an7}Improved MP 1,
+Dialogue: 0,0:07:59.01,0:08:00.79,Caption-3,,0,0,0,,{\pos(2875.74,1716.26)}{\an7}Mana Manipulation
+Dialogue: 0,0:07:59.01,0:08:00.79,Caption-3,,0,0,0,,{\pos(2496,993.6)}{\an7}Skills: Minerology 1, Command 1,
+Dialogue: 0,0:07:59.01,0:08:00.79,Caption-3,,0,0,0,,{\pos(2585.06,1193.88)}{\an7}Staff Arts 2, Battlestaff Arts 1,
+Dialogue: 0,0:08:09.75,0:08:12.33,Caption-3,,0,0,0,,{\pos(460.8,194.4)}{\an7}Skills Obtained:
+Dialogue: 0,0:08:09.96,0:08:12.33,Caption-3,,0,0,0,,{\pos(333.34,993.6)}{\an7}Improved MP 1                                                                                                               
+Dialogue: 0,0:08:09.96,0:08:12.33,Caption-3,,0,0,0,,{\pos(338.68,1374.14)}{\an7}Battlestaff Arts 1                                                                                                          
+Dialogue: 0,0:08:10.33,0:08:12.33,Caption-3,,0,0,0,,{\pos(2895.46,291.46)}{\an7}Fire Magic 3
+Dialogue: 0,0:08:10.54,0:08:12.33,Caption-3,,0,0,0,,{\pos(2737.6,669.86)}{\an7}Mana Manipulation
+Dialogue: 0,0:08:10.75,0:08:12.33,Caption-3,,0,0,0,,{\pos(2876.8,1028.8)}{\an7}Minerology 1
+Dialogue: 0,0:08:10.92,0:08:12.33,Caption-3,,0,0,0,,{\pos(2900.8,1404)}{\an7}Command 1
+Dialogue: 0,0:08:11.25,0:08:12.33,Caption-3,,0,0,0,,{\pos(2889.06,1750.94)}{\an7}Staff Arts 2
+Dialogue: 0,0:08:16.83,0:08:25.63,Caption-2,,0,0,0,,{\fax0.5\frz341.1\pos(1766.4,96.8)}{\an7}Sword Arts 3
+Dialogue: 0,0:09:58.33,0:09:59.79,Caption-3,,0,0,0,,{\pos(2457.6,1404)}{\an7}Name: Lesser Wyvern
+Dialogue: 0,0:09:58.33,0:09:59.79,Caption-3,,0,0,0,,{\pos(2294.4,1572.8)}{\an7}Race: Monster, Lesser Sub-Dragon
+Dialogue: 0,0:10:12.33,0:10:14.38,Caption-3,,0,0,0,,{\pos(422.4,280.8)}{\an7}Skills:  Intimidation 2, Stealth 2
+Dialogue: 0,0:10:12.33,0:10:14.38,Caption-3,,0,0,0,,{\pos(729.6,453.6)}{\an7}Fire Resistance 3, Control Air 3
+Dialogue: 0,0:10:12.34,0:10:14.38,Caption-3,,0,0,0,,{\pos(576,626.4)}{\an7}Poison Resistance 3, Hardened Scales
+Dialogue: 0,0:10:12.34,0:10:14.38,Caption-3,,0,0,0,,{\pos(537.6,799.2)}{\an7}Enhanced Olfaction, Enhanced Drain,
+Dialogue: 0,0:10:12.34,0:10:14.38,Caption-3,,0,0,0,,{\pos(691.2,972)}{\an7}Enhanced Sight
+Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(2496,172.8)}{\an7}Name: Gluttonous Slimelord
+Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(2496,324)}{\an7}Race: Monster, Slime
+Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(2476,564)}{\an7}VIT:
+Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(2864,560)}{\an7}MP:
+Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(2480,688)}{\an7}STR:
+Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(2844,681.6)}{\an7}Astuteness:
+Dialogue: 0,0:10:33.71,0:10:36.63,Caption-5,,0,0,0,,{\pos(307.2,648)}{\an7}Skills: Evasion 3, Enhanced Evasion 4, Mimicry 6,
+Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(576,799.2)}{\an7}Drain 8, Harden 8, Instant Regen 7,
+Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(499.2,950.4)}{\an7}Status Ailment Resistance 7, Jump 5,
+Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(345.6,1058.4)}{\an7}Soften 8, Slime Mastery 7, Slime Arts 8,
+Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(460.8,1209.6)}{\an7}Physical Resistance 7, Predation 9,
+Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(499.2,1360.8)}{\an7}Mana Sense 7, Pocket Dimension,
+Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(422.4,1468.8)}{\an7}Spirit Manipulation, Enhanced Drain,
+Dialogue: 0,0:10:33.72,0:10:36.63,Caption-5,,0,0,0,,{\pos(307.2,1598.4)}{\an7}Acid Slime, Enhanced Digestion, Mana Manipulation
+Dialogue: 0,0:10:54.58,0:10:57.17,Caption-6,,0,0,0,,{\pos(2309.6,104.8)}{\an7}The final evolution of a Gluttonous Slime.
+Dialogue: 0,0:10:54.58,0:10:57.17,Caption-6,,0,0,0,,{\pos(2244.8,230.4)}{\an7}Consumes every living thing in its vicinity and grows
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2260.8,350.4)}{\an7}exponentially without limit.
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2249.6,454.4)}{\an7}Stores away defeated prey  in a pocket dimension
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2244,568)}{\an7}for later consumption, making it capable of some
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2242.4,678.4)}{\an7}degree of spacetime magic.
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2276.8,792)}{\an7}Some speculate it is capable of preying upon dragons
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2312,917.6)}{\an7}when there are no smaller creatures to consume.
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2355.2,1040)}{\an7}Kingdoms dispatch entire squadrons
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2372.8,1153.6)}{\an7}to deal with this threat.
+Dialogue: 0,0:10:54.59,0:10:57.17,Caption-6,,0,0,0,,{\pos(2348.8,1253.6)}{\an7}Mana Crystal location: Center of its mass.
+Dialogue: 0,0:11:37.13,0:11:42.67,Caption-3,,0,0,0,,{\pos(273.6,132.8)}{\an7}AP:
+Dialogue: 0,0:11:37.13,0:11:42.67,Caption-3,,0,0,0,,{\pos(278.4,362.4)}{\an7}MP Capacity:
+Dialogue: 0,0:11:37.13,0:11:42.67,Caption-3,,0,0,0,,{\pos(280,637.6)}{\an7}Durability:
+Dialogue: 0,0:11:37.13,0:11:39.63,Caption-3,,0,0,0,,{\pos(2310.4,1248.8)}{\an7}Self-evolution Rank:
+Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(1689.6,540)}{\an7}Skills Obtained:
+Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(1651.2,799.2)}{\an7}Mimicry 1
+Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(1651.2,1058.4)}{\an7}Harden 1
+Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(1651.2,1274.4)}{\an7}Instant Regen 1
+Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(1651.2,1447.2)}{\an7}Soften 1
+Dialogue: 0,0:11:39.63,0:11:42.67,Caption-3,,0,0,0,,{\pos(1574.4,1641.6)}{\an7}Pocket Dimension
+Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(2726.4,820.8)}{\an7}Name: Doppel Snake
+Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(2688,972)}{\an7}Race: Monster, Serpent
+Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(2609.6,1208.8)}{\an7}VIT:
+Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(2633.6,1356)}{\an7}MP:
+Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(2625.6,1493.6)}{\an7}STR:
+Dialogue: 0,0:12:06.38,0:12:10.21,Caption-3,,0,0,0,,{\pos(2617.6,1637.6)}{\an7}AGI:
+Dialogue: 0,0:12:10.50,0:12:14.46,Caption-4,,0,0,0,,{\pos(1574.4,237.6)}{\an7}Skills Obtained:
+Dialogue: 0,0:12:10.50,0:12:14.46,Caption-4,,0,0,0,,{\pos(1612.8,691.2)}{\an7}Doppelganger
+Dialogue: 0,0:12:10.50,0:12:14.46,Caption-4,,0,0,0,,{\pos(1459.2,1101.6)}{\an7}Ungodly Poison Fang
+Dialogue: 0,0:12:10.50,0:12:14.46,Caption-4,,0,0,0,,{\pos(1689.6,1468.8)}{\an7}Split Mind
+Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(307.2,172.8)}{\an7}Name: Blast Tortoise
+Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(307.2,259.2)}{\an7}Race: Monster, Tortoise
+Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(167.2,475.2)}{\an7}VIT:
+Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(167.2,602.4)}{\an7}MP:
+Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(163.2,738.4)}{\an7}STR:
+Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(163.2,877.6)}{\an7}AGI:
+Dialogue: 0,0:12:32.71,0:12:37.46,Caption-8,,0,0,0,,{\pos(2304,712.8)}{\an7}Skills: Digging 2, Stealth 4, Control Air 5,
+Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(2688,907.2)}{\an7}Pressurize Air 6, Air Bullet 7,
+Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(2457.6,1058.4)}{\an7}Vigilance 2, Harden 2, Shock Resistance 4,
+Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(2419.2,1209.6)}{\an7}Molting 3, Throwing 6, Poision Resistance 4
+Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(2688,1360.8)}{\an7}Bite 4, Superior Olfaction,
+Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(2457.6,1468.8)}{\an7}Enhanced Olfaction, Enhanced Carapace,
+Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(2457.6,1555.2)}{\an7}Carapace Regeneration, Diminished Pain,
+Dialogue: 0,0:12:32.72,0:12:37.46,Caption-8,,0,0,0,,{\pos(2572.8,1641.6)}{\an7}Fortitude, Mana Manipulation
+Dialogue: 0,0:12:41.79,0:12:43.63,Caption-4,,0,0,0,,{\pos(384,367.2)}{\an7}Earth Magic 4
+Dialogue: 0,0:12:54.50,0:12:59.25,Caption-3,,0,0,0,,{\pos(384,172.8)}{\an7}Skills Obtained:
+Dialogue: 0,0:12:54.50,0:12:59.25,Caption-3,,0,0,0,,{\pos(384,345.6)}{\an7}Pressurize Air
+Dialogue: 0,0:12:54.50,0:12:59.25,Caption-3,,0,0,0,,{\pos(384,518.4)}{\an7}Air Bullet
+Dialogue: 0,0:13:00.00,0:13:03.75,Caption-3,,0,0,0,,{\pos(2611.2,216)}{\an7}Area 5 Western Boss:
+Dialogue: 0,0:13:00.00,0:13:03.75,Caption-3,,0,0,0,,{\pos(2649.6,432)}{\an7}Tyrant Saber-Tooth
+Dialogue: 0,0:13:19.75,0:13:22.75,Caption-2,,0,0,0,,{\pos(1036.8,172.8)}{\an7}Superior Poison Fang
+Dialogue: 0,0:13:19.75,0:13:22.75,Caption-2,,0,0,0,,{\pos(1036.8,1209.6)}{\an7}Demonic Poison Fang
+Dialogue: 0,0:13:39.13,0:13:41.33,Caption-4,,0,0,0,,{\pos(1420.8,345.6)}{\an7}Name:        Unknown
+Dialogue: 0,0:13:39.13,0:13:41.33,Caption-3,,0,0,0,,{\pos(1190.4,799.2)}{\an7}Registered Wielder:
+Dialogue: 0,0:13:39.13,0:13:41.33,Caption-3,,0,0,0,,{\pos(1651.2,1058.4)}{\an7}None
+Dialogue: 0,0:13:39.13,0:13:41.33,Caption-3,,0,0,0,,{\pos(1190.4,1296)}{\an7}Race:
+Dialogue: 0,0:13:39.13,0:13:41.33,Caption-3,,0,0,0,,{\pos(1382.4,1468.8)}{\an7}Intelligent Weapon
+Dialogue: 0,0:13:41.33,0:13:47.29,Caption-8,,0,0,0,,{\pos(2503.2,88.8)}{\an7}AP:
+Dialogue: 0,0:13:41.33,0:13:47.29,Caption-8,,0,0,0,,{\pos(2520,257.6)}{\an7}MP Capacity:
+Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(2513.6,438.4)}{\an7}Durability:
+Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(2579.2,1154.4)}{\an7}Self-evolution Rank:
+Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(2534.4,1382.4)}{\an7}  Mana Crystals:
+Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(2936,1627.2)}{\an7}Memory Slots:
+Dialogue: 0,0:13:41.34,0:13:47.29,Caption-8,,0,0,0,,{\pos(2944,1841.6)}{\an7}Points:
+Dialogue: 0,0:13:44.08,0:13:47.29,Caption-8,,0,0,0,,{\pos(307.2,626.4)}{\an7}Skills:         Identify 6,
+Dialogue: 0,0:13:44.08,0:13:47.29,Caption-8,,0,0,0,,{\pos(614.4,799.2)}{\an7}Enhanced AP 1,
+Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(614.4,950.4)}{\an7}Rapid Regenerate,
+Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(614.4,1101.6)}{\an7}Wielder Healing Boost 1,
+Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(614.4,1252.8)}{\an7}Wielder Stat Boost 1,                                                                                            
+Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(576,1382.4)}{\an7}Telekinesis, Improved Telekinesis 1                                                          
+Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(606.4,1511.2)}{\an7}Telepathy, Improved MP Capacity 1,                                                                        
+Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(675.2,1657.6)}{\an7}Identify Creature, Mage
+Dialogue: 0,0:13:44.09,0:13:47.29,Caption-8,,0,0,0,,{\pos(680,1808)}{\an7}Expanded Memory Slots 1                                                                                                 
+Dialogue: 0,0:14:33.33,0:14:34.83,Caption-9,,0,0,0,,{\pos(1612.8,604.8)}{\an7}3 days later
+Dialogue: 0,0:14:45.83,0:14:48.83,Caption-9,,0,0,0,,{\pos(1574.4,604.8)}{\an7}10 days later
+Dialogue: 0,0:14:53.08,0:14:55.96,Caption-9,,0,0,0,,{\pos(1574.4,604.8)}{\an7}1 month later
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2534.4,259.2)}{\an7}Name: None     Age: 12
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2496,432)}{\an7}Race: Beastman; Black Cat Tribe
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2534.4,604.8)}{\an7}Class: None
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2496,756)}{\an7}Status: Slave
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2488,1077.6)}{\an7}VIT:
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2946.4,1077.6)}{\an7}MP:
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2490.4,1238.4)}{\an7}STR:
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2880,1238.4)}{\an7}AGI:
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2403.2,1407.2)}{\an7}Skills: Sword Arts 1, Darkvision,
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2764,1568)}{\an7}Expert Butcher
+Dialogue: 0,0:18:27.67,0:18:31.58,Caption-3,,0,0,0,,{\pos(2816,1728)}{\an7}Wayfinder
+Dialogue: 0,0:23:36.54,0:23:42.04,Caption-10,,0,0,0,,{\pos(1651.2,496.8)}{\an7}NEXT EPISODE:
+Dialogue: 0,0:23:36.54,0:23:42.04,Caption-10,,0,0,0,,{\pos(1036.8,993.6)}{\an7}THE HELLISH TRIAL AT THE ADVENTURER'S GUILD
