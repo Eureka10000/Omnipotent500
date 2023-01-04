@@ -16,9 +16,9 @@ Video File: [Isekai] Futoku no Guild - 01v2 (Immoral Guild) (AT-X 1080p) (Uncens
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.400000
-Scroll Position: 32
-Active Line: 43
-Video Position: 5750
+Scroll Position: 21
+Active Line: 32
+Video Position: 5080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,16 +49,16 @@ Style: ED Lyrics - English,Janda Manatee Solid,90,&H00FFFDFE,&H000000FF,&H009290
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:05.16,0:00:06.75,Default,,0,0,0,,Kikuru!
-Dialogue: 0,0:00:08.66,0:00:10.99,Default,,0,0,0,,Help me, Master!
+Dialogue: 0,0:00:08.66,0:00:10.99,Default,,0,0,0,,Help me, danna!
 Dialogue: 0,0:00:11.46,0:00:13.99,Default,,0,0,0,,Don't look at me, senpai!{}
-Dialogue: 0,0:00:14.53,0:00:17.00,Default,,0,0,0,,Uh... Master!
-Dialogue: 0,0:00:18.85,0:00:20.12,Default,,0,0,0,,Kik-kun...{}
+Dialogue: 0,0:00:14.53,0:00:17.00,Default,,0,0,0,,Oh no... Master!
+Dialogue: 0,0:00:18.85,0:00:20.12,Default,,0,0,0,,Kikkun...{}
 Dialogue: 0,0:00:29.32,0:00:33.00,Default,,0,0,0,,Is this really the youth I want?
 Dialogue: 0,0:02:17.83,0:02:19.53,Default top,,0,0,0,,You want to quit your job?
 Dialogue: 0,0:02:19.53,0:02:21.55,Default top,,0,0,0,,Why so sudden?
 Dialogue: 0,0:02:21.55,0:02:24.15,Default top,,0,0,0,,You can talk to me\Nif there's something troubling you...
-Dialogue: 0,0:02:24.77,0:02:27.25,Default,,0,0,0,,I learned of a classmate's marriage\Nin a New Year's greeting card
-Dialogue: 0,0:02:27.25,0:02:28.49,Default,,0,0,0,,I received at the beginning of the year...
+Dialogue: 0,0:02:24.77,0:02:27.25,Default,,0,0,0,,I received a New Year's greeting \Ncard at the beginning of the year
+Dialogue: 0,0:02:27.25,0:02:28.49,Default,,0,0,0,,from which I learned of a classmate's marriage...
 Dialogue: 0,0:02:28.49,0:02:31.03,Default,,0,0,0,,Oh, that's certainly worth celebrating!
 Dialogue: 0,0:02:31.03,0:02:32.71,Default,,0,0,0,,But is that the reason?
 Dialogue: 0,0:02:32.91,0:02:34.86,Default,,0,0,0,,I'm only 20,
@@ -81,10 +81,10 @@ Dialogue: 0,0:03:24.17,0:03:26.59,Default,,0,0,0,,but I've got more cash other t
 Dialogue: 0,0:03:26.59,0:03:27.68,Default,,0,0,0,,That's so creepy...
 Dialogue: 0,0:03:27.90,0:03:31.86,Default,,0,0,0,,Anyway, we've got a pretty cute new recruit\Ncoming to the guild! What do you think?
 Dialogue: 0,0:03:31.86,0:03:34.36,Default,,0,0,0,,You're saying it as if you're\Nattracting people to a cabaret...
-Dialogue: 0,0:03:35.02,0:03:38.53,Default,,0,0,0,,Hello, Laia-san{} and Leia-san!{}
-Dialogue: 0,0:03:40.66,0:03:42.65,Default,,0,0,0,,Hello, Enome-san!{}
+Dialogue: 0,0:03:35.02,0:03:38.53,Default,,0,0,0,,Laia-san{} and Leia-san, good afternoon!{}
+Dialogue: 0,0:03:40.66,0:03:42.65,Default,,0,0,0,,Enome-san, good afternoon!{}
 Dialogue: 0,0:03:42.65,0:03:44.10,Default,,0,0,0,,Speak of the devil.
-Dialogue: 0,0:03:44.10,0:03:46.09,Default,,0,0,0,,Hello, Hitamuki-chan!{}
+Dialogue: 0,0:03:44.10,0:03:46.09,Default,,0,0,0,,Hitamuki-chan, good afternoon!{}
 Dialogue: 0,0:03:46.50,0:03:48.70,Default top,,0,0,0,,So she's the new recruit?
 Dialogue: 0,0:03:48.70,0:03:50.13,Default top,,0,0,0,,Nice to meet you!
 Dialogue: 0,0:03:50.16,0:03:52.53,Default top,,0,0,0,,I'm Hitamu Kyan, a martial artist!
